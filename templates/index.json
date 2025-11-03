@@ -238,11 +238,11 @@
             "button_size": "medium"
           }
         },
-        "product_tab_zW7MJi": {
+        "product_tab_XYkgcG": {
           "type": "product_tab",
           "settings": {
             "title": "Trending",
-            "collection": "power-splitters-combiners",
+            "collection": "directional-couplers",
             "products_to_show": 8,
             "show_view_all": true,
             "button_label": "View all",
@@ -255,7 +255,7 @@
       "block_order": [
         "1652382824d82402c3-1",
         "product_tab_pUUKpw",
-        "product_tab_zW7MJi"
+        "product_tab_XYkgcG"
       ],
       "settings": {
         "container": "container-fluid",
