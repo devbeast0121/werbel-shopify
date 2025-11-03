@@ -85,7 +85,7 @@
         "snow_fall": false,
         "container": "container-fluid",
         "slide_height": "medium",
-        "show_pagination": true,
+        "show_pagination": false,
         "show_navigation": true,
         "color_scheme_navigation": "accent-1",
         "enable_loop": false,
