@@ -250,12 +250,26 @@
             "button_style": "primary",
             "button_size": "medium"
           }
+        },
+        "product_tab_pUUKpw": {
+          "type": "product_tab",
+          "settings": {
+            "title": "Featured",
+            "collection": "microwave-rack-mount-assemblies",
+            "products_to_show": 8,
+            "show_view_all": true,
+            "button_label": "View all",
+            "button_icon": true,
+            "button_style": "primary",
+            "button_size": "medium"
+          }
         }
       },
       "block_order": [
         "1652382824d82402c3-1",
         "product_tab_39YMwW",
-        "product_tab_KAJnRR"
+        "product_tab_KAJnRR",
+        "product_tab_pUUKpw"
       ],
       "settings": {
         "container": "container-fluid",
