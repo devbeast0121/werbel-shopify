@@ -225,11 +225,11 @@
             "button_size": "medium"
           }
         },
-        "1652382824d82402c3-0": {
+        "product_tab_39YMwW": {
           "type": "product_tab",
           "settings": {
             "title": "Featured",
-            "collection": "new-arrivals",
+            "collection": "power-splitters-combiners",
             "products_to_show": 10,
             "show_view_all": true,
             "button_label": "View all",
@@ -238,11 +238,11 @@
             "button_size": "medium"
           }
         },
-        "9b9eddbf-1924-440f-9810-b29abc9c982b": {
+        "product_tab_KAJnRR": {
           "type": "product_tab",
           "settings": {
             "title": "Trending",
-            "collection": "fashion-trending",
+            "collection": "power-splitters-combiners",
             "products_to_show": 10,
             "show_view_all": true,
             "button_label": "View all",
@@ -254,8 +254,8 @@
       },
       "block_order": [
         "1652382824d82402c3-1",
-        "1652382824d82402c3-0",
-        "9b9eddbf-1924-440f-9810-b29abc9c982b"
+        "product_tab_39YMwW",
+        "product_tab_KAJnRR"
       ],
       "settings": {
         "container": "container-fluid",
