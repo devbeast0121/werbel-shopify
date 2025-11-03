@@ -108,6 +108,7 @@
         "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-0": {
           "type": "banner",
           "settings": {
+            "image": "shopify://shop_images/about2.png",
             "subheading": "",
             "heading": "",
             "heading_size": "h4",
