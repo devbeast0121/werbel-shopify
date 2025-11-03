@@ -225,32 +225,6 @@
             "button_size": "medium"
           }
         },
-        "product_tab_39YMwW": {
-          "type": "product_tab",
-          "settings": {
-            "title": "Featured",
-            "collection": "power-splitters-combiners",
-            "products_to_show": 10,
-            "show_view_all": true,
-            "button_label": "View all",
-            "button_icon": true,
-            "button_style": "primary",
-            "button_size": "medium"
-          }
-        },
-        "product_tab_KAJnRR": {
-          "type": "product_tab",
-          "settings": {
-            "title": "Trending",
-            "collection": "power-splitters-combiners",
-            "products_to_show": 10,
-            "show_view_all": true,
-            "button_label": "View all",
-            "button_icon": true,
-            "button_style": "primary",
-            "button_size": "medium"
-          }
-        },
         "product_tab_pUUKpw": {
           "type": "product_tab",
           "settings": {
@@ -263,13 +237,25 @@
             "button_style": "primary",
             "button_size": "medium"
           }
+        },
+        "product_tab_zW7MJi": {
+          "type": "product_tab",
+          "settings": {
+            "title": "Trending",
+            "collection": "power-splitters-combiners",
+            "products_to_show": 8,
+            "show_view_all": true,
+            "button_label": "View all",
+            "button_icon": true,
+            "button_style": "primary",
+            "button_size": "medium"
+          }
         }
       },
       "block_order": [
         "1652382824d82402c3-1",
-        "product_tab_39YMwW",
-        "product_tab_KAJnRR",
-        "product_tab_pUUKpw"
+        "product_tab_pUUKpw",
+        "product_tab_zW7MJi"
       ],
       "settings": {
         "container": "container-fluid",
