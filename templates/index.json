@@ -15,6 +15,7 @@
         "b3591f96-63d9-4b9d-9223-39129854009e": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/about2.png",
             "heading": "Discover the Latest Trends, Your Way!",
             "heading_size": "h0",
             "subheading": "",
@@ -35,6 +36,7 @@
         "af0e1932-6f5b-484e-9d39-c659570f30a7": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/about1.png",
             "heading": "New Great Fashion Collection",
             "heading_size": "h0",
             "subheading": "",
@@ -55,6 +57,7 @@
         "f3ec9bbb-5172-426f-b889-a633f7451a62": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/about3.png",
             "heading": "Unleash Your Fashion Obsession",
             "heading_size": "h0",
             "subheading": "",
@@ -81,7 +84,7 @@
       "settings": {
         "snow_fall": false,
         "container": "container-fluid",
-        "slide_height": "adapt_image",
+        "slide_height": "medium",
         "show_pagination": true,
         "show_navigation": true,
         "color_scheme_navigation": "accent-1",
