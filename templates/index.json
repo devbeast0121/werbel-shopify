@@ -49,7 +49,7 @@
             "enble_entire_link": false,
             "button_type": "primary",
             "button_size": "medium",
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "color_scheme_enable": false,
             "color_scheme_2": "background-1"
           }
@@ -70,7 +70,7 @@
             "enble_entire_link": false,
             "button_type": "primary",
             "button_size": "medium",
-            "color_scheme": "background-1",
+            "color_scheme": "inverse",
             "color_scheme_enable": false,
             "color_scheme_2": "background-1"
           }
