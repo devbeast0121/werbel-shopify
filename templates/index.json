@@ -320,8 +320,8 @@
         "padding_bottom": 150,
         "mobile_padding_top": 80,
         "mobile_padding_bottom": 85,
-        "color_scheme": "background-2",
-        "custom_colors": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
         "foreground": "#121212",
         "background": "#f7f8fc",
         "accent_1_bg": "#ee2761",
@@ -478,6 +478,7 @@
         "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-6",
         "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-7"
       ],
+      "disabled": true,
       "settings": {
         "speed": 28,
         "direction": "left",
