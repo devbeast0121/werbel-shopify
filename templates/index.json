@@ -114,7 +114,7 @@
             "button_label": "Shop Clothing",
             "button_icon": false,
             "underline": true,
-            "banner_link": "shopify://collections/all",
+            "banner_link": "shopify://products/copy-of-whispering-willow-wrap-dress-3",
             "button_type": "primary",
             "button_size": "small",
             "content_position": "bottom",
