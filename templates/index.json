@@ -15,7 +15,7 @@
         "b3591f96-63d9-4b9d-9223-39129854009e": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/about2.png",
+            "image": "shopify://shop_images/about2_b51a2dc6-dc4b-4820-bc72-b527d0f37015.png",
             "heading": "Designing and Producing High-Performance RF Microwave Components",
             "heading_size": "h0",
             "subheading": "Werbel Microwave",
@@ -40,14 +40,14 @@
       "settings": {
         "snow_fall": false,
         "container": "container-fluid",
-        "slide_height": "adapt_image",
+        "slide_height": "large",
         "show_pagination": false,
         "show_navigation": false,
         "color_scheme_navigation": "accent-1",
         "enable_loop": false,
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_overlay": false,
+        "show_overlay": true,
         "image_overlay_opacity": 50,
         "content_on_container": false,
         "padding_top": 0,
