@@ -48,11 +48,11 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "announcement_enable": true,
+        "announcement_enable": false,
         "snow_fall": false,
         "container": "container-fluid",
         "show_offset": true,
-        "color_scheme": "inverse"
+        "color_scheme": "accent-2"
       }
     },
     "header": {
@@ -148,12 +148,14 @@
         "header_design": "logo__left--menu-center",
         "border_hide_on_home_page": true,
         "header_sticky": true,
-        "sticky_color_background": "#ffffff",
+        "sticky_color_background": "#f7f8fc",
         "sticky_text_color": "#121212",
-        "transparent_header": false,
-        "transparent_color_foreground": "#121212",
+        "transparent_header": true,
+        "logo_2": "shopify://shop_images/logo_white.svg",
+        "transparent_color_foreground": "#f7f8fc",
         "transparent_color_background": "#ffffff",
         "transparent_text_color": "#121212",
+        "logo_3": "shopify://shop_images/logo_black_e87a4c48-a9ce-4297-87d2-cc7d637c6d4a.svg",
         "account_button": true,
         "cart_drawer_button": true,
         "cart_icon_type": "cart",
