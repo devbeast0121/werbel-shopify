@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/about2.png",
             "heading": "Designing and Producing High-Performance RF Microwave Components",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "Werbel Microwave",
             "subheading_color": "color-foreground-accent-1",
             "text": "<p>Since 2014, Werbel Microwave has crafted COTS and custom microwave components for defense, commercial, and test applications.</p>",
