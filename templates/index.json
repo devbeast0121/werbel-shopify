@@ -701,6 +701,7 @@
     },
     "b32c46de-3667-4009-bf1a-4795e20e487c": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "show_offset": false,
@@ -885,6 +886,7 @@
     },
     "d48e8a36-035d-49fd-908b-8d513e043457": {
       "type": "best-deals-products",
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "subtitle": "",
@@ -1011,6 +1013,7 @@
         "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-7",
         "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-8"
       ],
+      "disabled": true,
       "settings": {
         "speed": 20,
         "direction": "left",
