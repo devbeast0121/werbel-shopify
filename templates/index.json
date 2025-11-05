@@ -458,6 +458,7 @@
         },
         "b3f26312-4295-496a-bfef-33dc81fd4364": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "countdown_label": "Hurry up! Sale ends in",
             "icon_enable": true,
@@ -504,6 +505,7 @@
         },
         "7f85abe8-0605-4308-86a8-efad32c522f7": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share",
             "share_link": true,
@@ -523,13 +525,13 @@
         "7f85abe8-0605-4308-86a8-efad32c522f7"
       ],
       "settings": {
-        "container": "container-fluid",
-        "product": "copy-of-black-in-ear-bluetooth-headphones",
+        "container": "container",
+        "product": "wmc-0-3-8-10db-s",
         "color_scheme": "background-2",
-        "secondary_background": false,
+        "secondary_background": true,
         "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
-        "media_height": "adapt",
+        "media_height": "small",
         "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_sticky_info": true,
