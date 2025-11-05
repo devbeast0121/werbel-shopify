@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header",
@@ -11,7 +20,7 @@
             "index": false,
             "no_index": false,
             "text": "Welcome to our store",
-            "link": "shopify:\/\/collections",
+            "link": "shopify://collections",
             "social_media": true,
             "country_selector": true,
             "language_selector": true,
@@ -20,10 +29,10 @@
             "subheading": "LIMITED OFFER",
             "heading": "UP TO 50% OFF",
             "heading_size": "h1",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Include information about availability, style, or even a review.<\/p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Include information about availability, style, or even a review.</p>",
             "button_label": "SHOP NOW",
             "button_icon": false,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "medium",
             "alignment": "center",
@@ -82,11 +91,10 @@
           "type": "menu_promo_banner",
           "settings": {
             "heading": "Shop",
-            "image": "shopify:\/\/shop_images\/timeline-1.png",
             "height": "adapt",
             "promo1_heading": "UP TO 70% OFF",
-            "promo1_text": "<p>Shop Now<\/p>",
-            "promo1_link": "shopify:\/\/collections",
+            "promo1_text": "<p>Shop Now</p>",
+            "promo1_link": "shopify://collections",
             "height_2": "adapt",
             "promo2_heading": "",
             "promo2_text": "",
@@ -134,7 +142,7 @@
         "snow_fall": false,
         "container": "container-fluid",
         "show_offset": true,
-        "logo": "shopify:\/\/shop_images\/suruchi-logo_1.png",
+        "logo": "shopify://shop_images/logo_black_e87a4c48-a9ce-4297-87d2-cc7d637c6d4a.svg",
         "logo_width": 160,
         "menu": "main-menu",
         "header_design": "logo__left--menu-center",
@@ -163,6 +171,8 @@
         "welcome_text_with_icon": "lightning_bolt",
         "welcome_text_link": "",
         "menu_position": "between",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
         "color_scheme": "background-2",
         "color_scheme_3": "background-1",
         "color_scheme_2": "background-2"

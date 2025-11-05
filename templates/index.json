@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1631620567897133df": {
@@ -6,20 +15,20 @@
         "b3591f96-63d9-4b9d-9223-39129854009e": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/slideshow-2.png",
-            "heading": "Inspired Design & Quality Sound With Beats",
+            "image": "shopify://shop_images/about2.png",
+            "heading": "Designing and Producing High-Performance RF Microwave Components",
             "heading_size": "h1",
-            "subheading": "HOT OFFER",
+            "subheading": "Werbel Microwave",
             "subheading_color": "color-foreground-accent-1",
-            "text": "<p>Love what you listen, listen to what you love. Music speaks when words don’t. Make it clear. Let music reach your heart.<\/p>",
+            "text": "<p>Since 2014, Werbel Microwave has crafted COTS and custom microwave components for defense, commercial, and test applications.</p>",
             "content_alignment": "start",
             "button_label": "Shop now",
-            "button_icon": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_icon": false,
+            "button_link": "shopify://collections/all",
             "enble_entire_link": false,
             "button_type": "primary",
             "button_size": "medium",
-            "color_scheme": "background-2",
+            "color_scheme": "accent-1",
             "color_scheme_enable": false,
             "color_scheme_2": "background-1"
           }
@@ -62,7 +71,7 @@
         "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The sound of this speaker is great and we can't find any flaws with it. The audio quality is clear and there's no distortion or interference to speak of. We think this is a perfect choice for anyone looking for high-quality audio.<\/p>",
+            "text": "<p>The sound of this speaker is great and we can't find any flaws with it. The audio quality is clear and there's no distortion or interference to speak of. We think this is a perfect choice for anyone looking for high-quality audio.</p>",
             "text_style": "body"
           }
         },
@@ -73,7 +82,6 @@
             "subheading": "Flight time",
             "card_solid_button_icon": true,
             "icon": "none",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon-1.png",
             "full_width": false,
             "color_scheme": ""
           }
@@ -85,7 +93,6 @@
             "subheading": "Multipule sensing",
             "card_solid_button_icon": true,
             "icon": "return",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon-2.png",
             "full_width": false,
             "color_scheme": ""
           }
@@ -97,7 +104,6 @@
             "subheading": "Control Range",
             "card_solid_button_icon": true,
             "icon": "payment",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon-3.png",
             "full_width": false,
             "color_scheme": ""
           }
@@ -109,7 +115,6 @@
             "subheading": "Sensor Range",
             "card_solid_button_icon": true,
             "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon-4.png",
             "full_width": false,
             "color_scheme": ""
           }
@@ -121,7 +126,6 @@
             "subheading": "Obstacle sensing",
             "card_solid_button_icon": true,
             "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon-5.png",
             "full_width": false,
             "color_scheme": "background-1"
           }
@@ -133,7 +137,6 @@
             "subheading": "Video Streming",
             "card_solid_button_icon": false,
             "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon-6.png",
             "full_width": false,
             "color_scheme": "background-1"
           }
@@ -143,7 +146,7 @@
           "settings": {
             "button_label": "Explore Now",
             "button_icon": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "small"
           }
@@ -162,7 +165,6 @@
       ],
       "settings": {
         "container": "container-fluid",
-        "image": "shopify:\/\/shop_images\/image.png",
         "transparent_media": true,
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -171,7 +173,9 @@
         "desktop_content_alignment": "left",
         "card_content_padding": "medium",
         "full_width": false,
+        "round_corner": false,
         "color_scheme": "background-1",
+        "container_color_scheme": "",
         "mobile_content_alignment": "left",
         "padding_top": 90,
         "padding_bottom": 90,
@@ -186,7 +190,6 @@
           "type": "timeline",
           "settings": {
             "navigation_label": "2020 GEN ONE",
-            "image": "shopify:\/\/shop_images\/Rectangle_14.png",
             "transparent_media": true,
             "heading": "Voice Assistant Integration",
             "heading_size": "h3",
@@ -196,7 +199,7 @@
             "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
             "button_label": "Shop Now",
             "button_icon": true,
-            "button_link": "shopify:\/\/collections",
+            "button_link": "shopify://collections",
             "button_style": "primary",
             "button_size": "small",
             "content_position": "middle",
@@ -207,7 +210,6 @@
           "type": "timeline",
           "settings": {
             "navigation_label": "2021 GEN TWO",
-            "image": "shopify:\/\/shop_images\/Rectangle_15.png",
             "transparent_media": true,
             "heading": "Voice Assistant Integration",
             "heading_size": "h3",
@@ -217,7 +219,7 @@
             "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
             "button_label": "Shop Now",
             "button_icon": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "small",
             "content_position": "middle",
@@ -228,7 +230,6 @@
           "type": "timeline",
           "settings": {
             "navigation_label": "2022 GEN THREE",
-            "image": "shopify:\/\/shop_images\/timeline-1.png",
             "transparent_media": true,
             "heading": "Voice Assistant Integration",
             "heading_size": "h3",
@@ -238,7 +239,7 @@
             "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
             "button_label": "Shop Now",
             "button_icon": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "small",
             "content_position": "middle",
@@ -249,7 +250,6 @@
           "type": "timeline",
           "settings": {
             "navigation_label": "2023 GEN FOUR",
-            "image": "shopify:\/\/shop_images\/Rectangle_16.png",
             "transparent_media": true,
             "heading": "Voice Assistant Integration",
             "heading_size": "h3",
@@ -259,7 +259,7 @@
             "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
             "button_label": "Shop Now",
             "button_icon": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "small",
             "content_position": "middle",
@@ -270,7 +270,6 @@
           "type": "timeline",
           "settings": {
             "navigation_label": "2024 GEN FIVE",
-            "image": "shopify:\/\/shop_images\/Rectangle_15.png",
             "transparent_media": true,
             "heading": "Voice Assistant Integration",
             "heading_size": "h3",
@@ -280,7 +279,7 @@
             "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
             "button_label": "Shop Now",
             "button_icon": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "small",
             "content_position": "middle",
@@ -352,10 +351,13 @@
         "show_compare_view_button": true,
         "show_wishlist_button": true,
         "show_title": true,
+        "enable_word_limit": false,
+        "word_counter": 5,
         "show_price": true,
         "show_vendor": false,
         "show_countdown": true,
         "show_product_rating": false,
+        "show_border": false,
         "product_card_radius": true,
         "product_card_spacing": true,
         "product_card_color_scheme": "background-2",
@@ -402,10 +404,18 @@
         "4e8f9c4d-8909-418f-be58-b5701425a070": {
           "type": "inventory",
           "settings": {
-            "countdown_label": "Hurry up! Sale ends in",
+            "low_stock_value": 10,
+            "show_inventory_quantity": true,
+            "show_always": true,
+            "minimum_amount_value": 50,
+            "bullet_point": false,
+            "progress_bar": true,
             "progress_bg_color": "#f5f5f5",
-            "colors_accent_1": "#0067ff",
-            "gradient_accent_1": ""
+            "gradient_accent_1": "",
+            "in_stock": "#3ed660",
+            "out_of_stock": "#c8c8c8",
+            "low_stock": "#ee9441",
+            "continue_selling": "#3ed660"
           }
         },
         "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-variant_picker-1": {
@@ -473,8 +483,7 @@
           "settings": {
             "heading": "Repair and maintenance",
             "subheading": "Regularly clean and maintain your headphones to extend their lifespan.",
-            "icon": "headphone",
-            "feature_image_icon": "shopify:\/\/shop_images\/Group_22128.png"
+            "icon": "headphone"
           }
         },
         "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-2": {
@@ -482,8 +491,7 @@
           "settings": {
             "heading": "Warranty coverage",
             "subheading": "Check your warranty to see if repairs are covered.",
-            "icon": "return",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon2.png"
+            "icon": "return"
           }
         },
         "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-3": {
@@ -491,8 +499,7 @@
           "settings": {
             "heading": "Authorized service centers",
             "subheading": "Use authorized service centers for reliable repairs.",
-            "icon": "payment",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon3.png"
+            "icon": "payment"
           }
         },
         "e17134d0-1506-4785-a270-dd3c488778ba": {
@@ -500,8 +507,7 @@
           "settings": {
             "heading": "DIY Repairs",
             "subheading": "Learn basic headphone repair skills for minor issues.",
-            "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon4.png"
+            "icon": "truck"
           }
         },
         "046e93d2-9fc3-4b50-b9da-77b3b027acc6": {
@@ -509,8 +515,7 @@
           "settings": {
             "heading": "Upgrades",
             "subheading": "Consider upgrading ear cushions or cables for improved performance.",
-            "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon5.png"
+            "icon": "truck"
           }
         },
         "070f8479-7b9e-4003-9b23-7b50bfc706dc": {
@@ -518,8 +523,7 @@
           "settings": {
             "heading": "Compatibility",
             "subheading": "Ensure your headphones work with your devices and audio sources.",
-            "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon6.png"
+            "icon": "truck"
           }
         },
         "13aab939-1443-4c9a-bef7-87785630d913": {
@@ -527,8 +531,7 @@
           "settings": {
             "heading": "Customization",
             "subheading": "Explore custom earpad options for comfort and style.",
-            "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon7.png"
+            "icon": "truck"
           }
         },
         "549fe1ff-20a2-4e7a-b74a-185cad6cb73b": {
@@ -536,8 +539,7 @@
           "settings": {
             "heading": "Professional advice",
             "subheading": "Seek guidance from headphone experts for optimal performance.",
-            "icon": "truck",
-            "feature_image_icon": "shopify:\/\/shop_images\/icon8.png"
+            "icon": "truck"
           }
         }
       },
@@ -583,10 +585,8 @@
         "subtitle": "",
         "heading": "",
         "text_center": "center",
-        "video": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "enable_video_looping": false,
-        "cover_image": "shopify:\/\/shop_images\/change_0ddb5cc8-4228-4d6d-836e-ca5702f7b6fb.png",
         "height": "adapt",
         "description": "",
         "padding_top": 0,
@@ -602,35 +602,35 @@
           "type": "accordion",
           "settings": {
             "heading": "1. What are headphones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
           }
         },
         "template--21698843869483__936101a9-deab-483d-9d04-c9b187840105-accordion-2": {
           "type": "accordion",
           "settings": {
             "heading": "2. What are the different types of headphones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
           }
         },
         "d3439abd-0566-4272-becd-5cbf37d2b05a": {
           "type": "accordion",
           "settings": {
             "heading": "3. What's the difference between open-back and closed-back headphones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
           }
         },
         "86133c53-f82f-451f-b068-11ce55301767": {
           "type": "accordion",
           "settings": {
             "heading": "4. Are wireless headphones better than wired ones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
           }
         },
         "d7bf074c-c443-4fe4-ad3b-2c8bde8d7cc9": {
           "type": "accordion",
           "settings": {
             "heading": "5. What is active noise cancellation (ANC)?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
           }
         }
       },
@@ -649,7 +649,6 @@
         "text_center": "center",
         "border_line": false,
         "enable_image": true,
-        "image": "shopify:\/\/shop_images\/Group_22129.png",
         "height": "adapt",
         "round_corner": true,
         "image_position": "left",
@@ -668,55 +667,50 @@
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-0": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Jhone Doe<\/p>",
+            "heading": "<p>Jhone Doe</p>",
             "subheading": "Developer",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
             "rating": "5",
-            "image": "shopify:\/\/shop_images\/Ellipse_308.png",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-1": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Nike sime<\/p>",
+            "heading": "<p>Nike sime</p>",
             "subheading": "Designer",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
             "rating": "4",
-            "image": "shopify:\/\/shop_images\/team2.webp",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-2": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Samule Das<\/p>",
+            "heading": "<p>Samule Das</p>",
             "subheading": "Manager",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
             "rating": "2",
-            "image": "shopify:\/\/shop_images\/Ellipse_273_1.png",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-3": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>David Lu<\/p>",
+            "heading": "<p>David Lu</p>",
             "subheading": "CEO",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
             "rating": "5",
-            "image": "shopify:\/\/shop_images\/Ellipse_273_2.png",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-4": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Maxwel<\/p>",
+            "heading": "<p>Maxwel</p>",
             "subheading": "CTO",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
             "rating": "3",
-            "image": "shopify:\/\/shop_images\/Ellipse_273.png",
             "author_image": true
           }
         }
@@ -899,6 +893,7 @@
         "speed": 20,
         "direction": "left",
         "text_size": "h4",
+        "bullet_style": false,
         "margin_top": 0,
         "margin_bottom": 0,
         "mobile_margin_top": 0,
@@ -921,7 +916,7 @@
           "settings": {
             "heading": "Email",
             "icon": "email",
-            "text": "<p><strong>example@gmail.com<\/strong><br\/>demoo@gmail.com<\/p>"
+            "text": "<p><strong>example@gmail.com</strong><br/>demoo@gmail.com</p>"
           }
         },
         "d276508c-95bb-4afc-8c7f-7d91db84af4f": {
@@ -929,7 +924,7 @@
           "settings": {
             "heading": "Phone",
             "icon": "phone",
-            "text": "<p> <strong> (372) 587-2335 <\/strong> <br\/> (372) 555-4665<\/p>"
+            "text": "<p> <strong> (372) 587-2335 </strong> <br/> (372) 555-4665</p>"
           }
         },
         "1c47aabd-faaf-489d-a8b5-d73dd9c2c494": {
@@ -937,7 +932,7 @@
           "settings": {
             "heading": "Address",
             "icon": "address",
-            "text": "<p>125 MOUNT STREET<br\/>LONDON<br\/>W1K 3NS<\/p>"
+            "text": "<p>125 MOUNT STREET<br/>LONDON<br/>W1K 3NS</p>"
           }
         },
         "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-scoial_media-1": {
