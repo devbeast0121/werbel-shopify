@@ -541,14 +541,105 @@
         "mobile_padding_bottom": 65
       }
     },
+    "image_with_text_gyfCHT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hTx4H8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Building Value-Adding Partnerships",
+            "heading_size": "h1"
+          }
+        },
+        "text_qRNe8M": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you need a general purpose, off-the-shelf product or a customized solution, Werbel Microwave has the design experience, equipment, and skilled personnel to help your design team achieve their goals.<br/>Our products have proven highly reliable over the years, with tens of thousands of units shipped to date since 2014.<br/>Werbel Microwave can add value to your brand with private label partnership discounts at high volumes.<br/>We own our design intellectual property, allowing us to maintain supply chain stability and react to changes in the market, minimizing the risk of obsolescence.</p>",
+            "text_style": "body"
+          }
+        },
+        "list_E6yRLW": {
+          "type": "list",
+          "settings": {
+            "heading": "Catalog Models in Stock",
+            "subheading": "",
+            "card_solid_button_icon": false,
+            "icon": "star",
+            "full_width": true,
+            "color_scheme": ""
+          }
+        },
+        "list_V8NWHC": {
+          "type": "list",
+          "settings": {
+            "heading": "In-House Production",
+            "subheading": "",
+            "card_solid_button_icon": false,
+            "icon": "star",
+            "full_width": true,
+            "color_scheme": ""
+          }
+        },
+        "list_EH7UaF": {
+          "type": "list",
+          "settings": {
+            "heading": "Stable Supply Chain",
+            "subheading": "",
+            "card_solid_button_icon": false,
+            "icon": "star",
+            "full_width": true,
+            "color_scheme": ""
+          }
+        },
+        "list_r8KFgA": {
+          "type": "list",
+          "settings": {
+            "heading": "Private Label",
+            "subheading": "",
+            "card_solid_button_icon": false,
+            "icon": "star",
+            "full_width": true,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hTx4H8",
+        "text_qRNe8M",
+        "list_E6yRLW",
+        "list_V8NWHC",
+        "list_EH7UaF",
+        "list_r8KFgA"
+      ],
+      "settings": {
+        "container": "container-fluid",
+        "image": "shopify://shop_images/about1_c9b656d4-c2d3-4e43-8faf-a530c938281d.png",
+        "transparent_media": true,
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "card_content_padding": "medium",
+        "full_width": false,
+        "round_corner": false,
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 65
+      }
+    },
     "647da7f0-448c-4514-92c0-186f8fdbf14b": {
       "type": "featured-promotion",
       "blocks": {
         "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-1": {
           "type": "featured_promotion",
           "settings": {
-            "heading": "Repair and maintenance",
-            "subheading": "Regularly clean and maintain your headphones to extend their lifespan.",
+            "heading": "Catalog Models in Stock",
+            "subheading": "",
             "icon": "headphone"
           }
         },
@@ -575,63 +666,28 @@
             "subheading": "Learn basic headphone repair skills for minor issues.",
             "icon": "truck"
           }
-        },
-        "046e93d2-9fc3-4b50-b9da-77b3b027acc6": {
-          "type": "featured_promotion",
-          "settings": {
-            "heading": "Upgrades",
-            "subheading": "Consider upgrading ear cushions or cables for improved performance.",
-            "icon": "truck"
-          }
-        },
-        "070f8479-7b9e-4003-9b23-7b50bfc706dc": {
-          "type": "featured_promotion",
-          "settings": {
-            "heading": "Compatibility",
-            "subheading": "Ensure your headphones work with your devices and audio sources.",
-            "icon": "truck"
-          }
-        },
-        "13aab939-1443-4c9a-bef7-87785630d913": {
-          "type": "featured_promotion",
-          "settings": {
-            "heading": "Customization",
-            "subheading": "Explore custom earpad options for comfort and style.",
-            "icon": "truck"
-          }
-        },
-        "549fe1ff-20a2-4e7a-b74a-185cad6cb73b": {
-          "type": "featured_promotion",
-          "settings": {
-            "heading": "Professional advice",
-            "subheading": "Seek guidance from headphone experts for optimal performance.",
-            "icon": "truck"
-          }
         }
       },
       "block_order": [
         "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-1",
         "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-2",
         "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-3",
-        "e17134d0-1506-4785-a270-dd3c488778ba",
-        "046e93d2-9fc3-4b50-b9da-77b3b027acc6",
-        "070f8479-7b9e-4003-9b23-7b50bfc706dc",
-        "13aab939-1443-4c9a-bef7-87785630d913",
-        "549fe1ff-20a2-4e7a-b74a-185cad6cb73b"
+        "e17134d0-1506-4785-a270-dd3c488778ba"
       ],
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
-        "subtitle": "These power features enhance the functionality and user experience of AirPods, providing advanced capabilities and innovative technologies for a truly exceptional audio experience.",
-        "heading": "Our Services",
+        "subtitle": "<strong>10Years Of Business</strong>",
+        "heading": "Building Value-Adding Partnerships",
         "heading_position": "top",
         "text_center": "center",
-        "border_line": false,
-        "desktop_column": "4",
-        "laptop_column": "3",
-        "mobile_column": "1",
+        "border_line": true,
+        "desktop_column": "2",
+        "laptop_column": "2",
+        "mobile_column": "2",
         "heading_size": "h5",
-        "card_solid_button_icon": true,
-        "icon_position": "top",
+        "card_solid_button_icon": false,
+        "icon_position": "left",
         "alignment": "center",
         "card_padding": "medium",
         "feature_card_radius": true,
@@ -1077,6 +1133,7 @@
     "fbbe8be4-a506-42a6-b719-1d28e601aa0f",
     "collection_list_EGJPhg",
     "a7b49381-1634-4350-b0de-1b82dcbf6e8b",
+    "image_with_text_gyfCHT",
     "647da7f0-448c-4514-92c0-186f8fdbf14b",
     "b32c46de-3667-4009-bf1a-4795e20e487c",
     "936101a9-deab-483d-9d04-c9b187840105",
