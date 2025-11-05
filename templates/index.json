@@ -64,88 +64,70 @@
         "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Best Sound Quality",
+            "heading": "Excellence in Every Product",
             "heading_size": "h1"
           }
         },
         "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The sound of this speaker is great and we can't find any flaws with it. The audio quality is clear and there's no distortion or interference to speak of. We think this is a perfect choice for anyone looking for high-quality audio.</p>",
+            "text": "<p>Our core principle is to provide quality products with consistent performance with high reliability. Keeping a lean manufacturing environment using automated processes offer the best quality and delivery in the industry.</p>",
             "text_style": "body"
           }
         },
         "66942aca-57e4-408d-bacb-9f3e74c2ee00": {
           "type": "list",
           "settings": {
-            "heading": "30 Mins",
-            "subheading": "Flight time",
+            "heading": "Made in the USA",
+            "subheading": "All of our products are proudly manufactured in the USA.",
             "card_solid_button_icon": true,
             "icon": "none",
-            "full_width": false,
+            "feature_image_icon": "shopify://shop_images/usa.svg",
+            "full_width": true,
             "color_scheme": ""
           }
         },
         "0005b959-0b80-4510-97c2-08c26bea945b": {
           "type": "list",
           "settings": {
-            "heading": "5 Direction",
-            "subheading": "Multipule sensing",
+            "heading": "In House Prototyping",
+            "subheading": "Drastically reduce lead times of new designs.",
             "card_solid_button_icon": true,
-            "icon": "return",
-            "full_width": false,
+            "icon": "none",
+            "feature_image_icon": "shopify://shop_images/House-Prototyping.svg",
+            "full_width": true,
             "color_scheme": ""
           }
         },
         "3cb1bd78-790f-4336-822d-362378e0932e": {
           "type": "list",
           "settings": {
-            "heading": "500 Meter",
-            "subheading": "Control Range",
+            "heading": "Quality System",
+            "subheading": "Certified ISO 9001:2015 system. View and download cert here.",
             "card_solid_button_icon": true,
-            "icon": "payment",
-            "full_width": false,
+            "icon": "none",
+            "feature_image_icon": "shopify://shop_images/energy-system.svg",
+            "full_width": true,
             "color_scheme": ""
           }
         },
         "a85915c7-cf99-47bb-9795-38581020ad02": {
           "type": "list",
           "settings": {
-            "heading": "300 Meter",
-            "subheading": "Sensor Range",
+            "heading": "One Year Warranty",
+            "subheading": "On all products from the date shipped.",
             "card_solid_button_icon": true,
-            "icon": "truck",
-            "full_width": false,
+            "icon": "none",
+            "feature_image_icon": "shopify://shop_images/warranty-2.svg",
+            "full_width": true,
             "color_scheme": ""
-          }
-        },
-        "dc48e8a5-24a2-492e-835f-b0b93be25758": {
-          "type": "list",
-          "settings": {
-            "heading": "Ultra Response",
-            "subheading": "Obstacle sensing",
-            "card_solid_button_icon": true,
-            "icon": "truck",
-            "full_width": false,
-            "color_scheme": "background-1"
-          }
-        },
-        "5576a9aa-3aa6-4319-8235-6e456903e3ae": {
-          "type": "list",
-          "settings": {
-            "heading": "HD Quality",
-            "subheading": "Video Streming",
-            "card_solid_button_icon": false,
-            "icon": "truck",
-            "full_width": false,
-            "color_scheme": "background-1"
           }
         },
         "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Explore Now",
-            "button_icon": true,
+            "button_icon": false,
             "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "small"
@@ -159,14 +141,13 @@
         "0005b959-0b80-4510-97c2-08c26bea945b",
         "3cb1bd78-790f-4336-822d-362378e0932e",
         "a85915c7-cf99-47bb-9795-38581020ad02",
-        "dc48e8a5-24a2-492e-835f-b0b93be25758",
-        "5576a9aa-3aa6-4319-8235-6e456903e3ae",
         "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-button-1"
       ],
       "settings": {
         "container": "container-fluid",
+        "image": "shopify://shop_images/Hybrids1.png",
         "transparent_media": true,
-        "height": "adapt",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -175,7 +156,7 @@
         "full_width": false,
         "round_corner": false,
         "color_scheme": "background-1",
-        "container_color_scheme": "",
+        "container_color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 90,
         "padding_bottom": 90,
