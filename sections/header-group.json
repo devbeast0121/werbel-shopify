@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "type": "header",
   "name": "Header",
@@ -20,19 +11,19 @@
             "index": false,
             "no_index": false,
             "text": "Welcome to our store",
-            "link": "shopify://collections",
+            "link": "shopify:\/\/collections",
             "social_media": true,
             "country_selector": true,
             "language_selector": true,
-            "collapsible_content": true,
+            "collapsible_content": false,
             "toggle_button": "More",
             "subheading": "LIMITED OFFER",
             "heading": "UP TO 50% OFF",
             "heading_size": "h1",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Include information about availability, style, or even a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Include information about availability, style, or even a review.<\/p>",
             "button_label": "SHOP NOW",
             "button_icon": false,
-            "button_link": "shopify://collections/all",
+            "button_link": "shopify:\/\/collections\/all",
             "button_style": "primary",
             "button_size": "medium",
             "alignment": "center",
@@ -52,16 +43,98 @@
         "snow_fall": false,
         "container": "container-fluid",
         "show_offset": true,
-        "color_scheme": "accent-1"
+        "color_scheme": "inverse"
       }
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "1220b21f-641e-4d7d-9627-54225ccc0640": {
+          "type": "category_menu",
+          "settings": {
+            "cat_menu_name": "Menu label",
+            "cat_menu_url": "",
+            "icon": "none",
+            "menu": "",
+            "vertical_menu_type": "dropdown",
+            "mega_menu_column": "3",
+            "height": "adapt",
+            "promo1_heading": "",
+            "promo1_text": "",
+            "promo1_link": ""
+          }
+        },
+        "22b4088b-2bf0-4cc2-a5b1-d67e9656f071": {
+          "type": "menu_promo_banner",
+          "settings": {
+            "heading": "Home",
+            "height": "adapt",
+            "promo1_heading": "",
+            "promo1_text": "",
+            "promo1_link": "",
+            "height_2": "adapt",
+            "promo2_heading": "",
+            "promo2_text": "",
+            "promo2_link": ""
+          }
+        },
+        "022cd375-94ee-46e7-8d01-0c6a66d264aa": {
+          "type": "menu_promo_banner",
+          "settings": {
+            "heading": "Shop",
+            "image": "shopify:\/\/shop_images\/timeline-1.png",
+            "height": "adapt",
+            "promo1_heading": "UP TO 70% OFF",
+            "promo1_text": "<p>Shop Now<\/p>",
+            "promo1_link": "shopify:\/\/collections",
+            "height_2": "adapt",
+            "promo2_heading": "",
+            "promo2_text": "",
+            "promo2_link": ""
+          }
+        },
+        "5bf3ac06-3f1e-42f0-a7a5-3f5196732a31": {
+          "type": "products",
+          "settings": {
+            "heading": "Products",
+            "product_list": [
+              "copy-of-wireless-computer-mouse",
+              "copy-of-xbox-gamepad-controller",
+              "copy-of-huawei-p40-pro-phone",
+              "copy-of-amazon-3rd-speaker",
+              "copy-of-blue-computer-mouse",
+              "copy-of-tough-apple-watch"
+            ],
+            "product_heading": "",
+            "product_column_width": "third",
+            "slider_enable": true,
+            "product_column": "2",
+            "product_column_laptop": "2",
+            "card_style": "style_2",
+            "image_ratio": "adapt",
+            "show_secondary_image": true,
+            "show_badges": false,
+            "show_cart_button": true,
+            "show_quick_view_button": false,
+            "show_compare_view_button": false,
+            "show_wishlist_button": false,
+            "show_title": true,
+            "show_price": true,
+            "show_vendor": false
+          }
+        }
+      },
+      "block_order": [
+        "1220b21f-641e-4d7d-9627-54225ccc0640",
+        "22b4088b-2bf0-4cc2-a5b1-d67e9656f071",
+        "022cd375-94ee-46e7-8d01-0c6a66d264aa",
+        "5bf3ac06-3f1e-42f0-a7a5-3f5196732a31"
+      ],
       "settings": {
         "snow_fall": false,
         "container": "container-fluid",
         "show_offset": true,
-        "logo": "shopify://shop_images/logo_black.svg",
+        "logo": "shopify:\/\/shop_images\/suruchi-logo_1.png",
         "logo_width": 160,
         "menu": "main-menu",
         "header_design": "logo__left--menu-center",
@@ -84,17 +157,15 @@
         "menu_toggle_button_label": "All Categories +",
         "menu_toggle_button_label_2": "Hide Categories -",
         "icon": "lightning_bolt",
-        "category_color_scheme": "",
+        "category_color_scheme": "background-1",
         "header_right_info": true,
         "phone_text": "Special up to 60% Off all item",
         "welcome_text_with_icon": "lightning_bolt",
         "welcome_text_link": "",
         "menu_position": "between",
-        "enable_country_selector": true,
-        "enable_language_selector": true,
-        "color_scheme": "background-1",
-        "color_scheme_3": "",
-        "color_scheme_2": "background-1"
+        "color_scheme": "background-2",
+        "color_scheme_3": "background-1",
+        "color_scheme_2": "background-2"
       }
     }
   },

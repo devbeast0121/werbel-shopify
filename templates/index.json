@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "1631620567897133df": {
@@ -15,78 +6,34 @@
         "b3591f96-63d9-4b9d-9223-39129854009e": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/about2.png",
-            "heading": "Designing and Producing High-Performance RF Microwave Components",
-            "heading_size": "h0",
-            "subheading": "",
+            "image": "shopify:\/\/shop_images\/slideshow-2.png",
+            "heading": "Inspired Design & Quality Sound With Beats",
+            "heading_size": "h1",
+            "subheading": "HOT OFFER",
             "subheading_color": "color-foreground-accent-1",
-            "text": "<p>Since 2014, Werbel Microwave has crafted COTS and custom microwave components for defense, commercial, and test applications.</p>",
+            "text": "<p>Love what you listen, listen to what you love. Music speaks when words don’t. Make it clear. Let music reach your heart.<\/p>",
             "content_alignment": "start",
             "button_label": "Shop now",
             "button_icon": true,
-            "button_link": "shopify://collections/all",
+            "button_link": "shopify:\/\/collections\/all",
             "enble_entire_link": false,
             "button_type": "primary",
             "button_size": "medium",
-            "color_scheme": "inverse",
-            "color_scheme_enable": false,
-            "color_scheme_2": "background-1"
-          }
-        },
-        "af0e1932-6f5b-484e-9d39-c659570f30a7": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/about1.png",
-            "heading": "Designing and Producing High-Performance RF Microwave Components",
-            "heading_size": "h0",
-            "subheading": "",
-            "subheading_color": "color-foreground-accent-1",
-            "text": "<p>Since 2014, Werbel Microwave has crafted COTS and custom microwave components for defense, commercial, and test applications.</p>",
-            "content_alignment": "start",
-            "button_label": "Shop now",
-            "button_icon": true,
-            "button_link": "shopify://collections/all",
-            "enble_entire_link": false,
-            "button_type": "primary",
-            "button_size": "medium",
-            "color_scheme": "inverse",
-            "color_scheme_enable": false,
-            "color_scheme_2": "background-1"
-          }
-        },
-        "f3ec9bbb-5172-426f-b889-a633f7451a62": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/about3.png",
-            "heading": "Designing and Producing High-Performance RF Microwave Components",
-            "heading_size": "h0",
-            "subheading": "",
-            "subheading_color": "color-foreground-accent-1",
-            "text": "<p>Since 2014, Werbel Microwave has crafted COTS and custom microwave components for defense, commercial, and test applications.</p>",
-            "content_alignment": "start",
-            "button_label": "Shop now",
-            "button_icon": true,
-            "button_link": "shopify://collections/all",
-            "enble_entire_link": false,
-            "button_type": "primary",
-            "button_size": "medium",
-            "color_scheme": "inverse",
+            "color_scheme": "background-2",
             "color_scheme_enable": false,
             "color_scheme_2": "background-1"
           }
         }
       },
       "block_order": [
-        "b3591f96-63d9-4b9d-9223-39129854009e",
-        "af0e1932-6f5b-484e-9d39-c659570f30a7",
-        "f3ec9bbb-5172-426f-b889-a633f7451a62"
+        "b3591f96-63d9-4b9d-9223-39129854009e"
       ],
       "settings": {
         "snow_fall": false,
         "container": "container-fluid",
-        "slide_height": "medium",
+        "slide_height": "adapt_image",
         "show_pagination": false,
-        "show_navigation": true,
+        "show_navigation": false,
         "color_scheme_navigation": "accent-1",
         "enable_loop": false,
         "auto_rotate": false,
@@ -102,173 +49,299 @@
         "mobile_pagination_active_background": "#ee2761"
       }
     },
-    "3b93b78c-2d62-436b-b0f3-9277d5ecce14": {
-      "type": "text-with-banner-masonry",
+    "65ac3ebe-6498-4996-a7d3-9f4bbdc352d7": {
+      "type": "image-with-text",
       "blocks": {
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-0": {
-          "type": "banner",
+        "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-heading-1": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/Power-Splitters.png",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "button_label": "Directional Couplers",
-            "button_icon": false,
-            "underline": true,
-            "banner_link": "shopify://collections/all",
-            "button_type": "primary",
-            "button_size": "small",
-            "content_position": "bottom",
-            "content_alignment": "center",
-            "color_scheme": "accent-2",
-            "subheading_text": "#b79e8c",
-            "heading_text": "#131313",
-            "button_text": "#131313",
-            "button_icon_color": "#b79e8c"
+            "heading": "Best Sound Quality",
+            "heading_size": "h1"
           }
         },
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-1": {
-          "type": "banner",
+        "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-text-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/Hybrids1.png",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "button_label": "Microwave Rack Mount Assemblies",
-            "button_icon": false,
-            "underline": true,
-            "banner_link": "shopify://collections/microwave-rack-mount-assemblies",
-            "button_type": "primary",
-            "button_size": "small",
-            "content_position": "bottom",
-            "content_alignment": "center",
-            "color_scheme": "accent-2",
-            "subheading_text": "#131313",
-            "heading_text": "#131313",
-            "button_text": "#131313",
-            "button_icon_color": "#ee2761"
+            "text": "<p>The sound of this speaker is great and we can't find any flaws with it. The audio quality is clear and there's no distortion or interference to speak of. We think this is a perfect choice for anyone looking for high-quality audio.<\/p>",
+            "text_style": "body"
           }
         },
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-2": {
-          "type": "banner",
+        "66942aca-57e4-408d-bacb-9f3e74c2ee00": {
+          "type": "list",
           "settings": {
-            "image": "shopify://shop_images/Couplers1.png",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "button_label": "Directional Couplers",
-            "button_icon": false,
-            "underline": true,
-            "banner_link": "shopify://collections/directional-couplers",
-            "button_type": "primary",
-            "button_size": "small",
-            "content_position": "bottom",
-            "content_alignment": "center",
-            "color_scheme": "accent-2",
-            "subheading_text": "#131313",
-            "heading_text": "#131313",
-            "button_text": "#131313",
-            "button_icon_color": "#ee2761"
+            "heading": "30 Mins",
+            "subheading": "Flight time",
+            "card_solid_button_icon": true,
+            "icon": "none",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon-1.png",
+            "full_width": false,
+            "color_scheme": ""
           }
         },
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-3": {
-          "type": "banner",
+        "0005b959-0b80-4510-97c2-08c26bea945b": {
+          "type": "list",
           "settings": {
-            "image": "shopify://shop_images/Resistive-Splitters-Taps1.png",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "button_label": "Power Splitters/Combiners",
-            "button_icon": false,
-            "underline": true,
-            "banner_link": "shopify://collections/power-splitters-combiners",
-            "button_type": "primary",
-            "button_size": "small",
-            "content_position": "bottom",
-            "content_alignment": "center",
-            "color_scheme": "inverse",
-            "subheading_text": "#131313",
-            "heading_text": "#131313",
-            "button_text": "#131313",
-            "button_icon_color": "#ee2761"
+            "heading": "5 Direction",
+            "subheading": "Multipule sensing",
+            "card_solid_button_icon": true,
+            "icon": "return",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon-2.png",
+            "full_width": false,
+            "color_scheme": ""
+          }
+        },
+        "3cb1bd78-790f-4336-822d-362378e0932e": {
+          "type": "list",
+          "settings": {
+            "heading": "500 Meter",
+            "subheading": "Control Range",
+            "card_solid_button_icon": true,
+            "icon": "payment",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon-3.png",
+            "full_width": false,
+            "color_scheme": ""
+          }
+        },
+        "a85915c7-cf99-47bb-9795-38581020ad02": {
+          "type": "list",
+          "settings": {
+            "heading": "300 Meter",
+            "subheading": "Sensor Range",
+            "card_solid_button_icon": true,
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon-4.png",
+            "full_width": false,
+            "color_scheme": ""
+          }
+        },
+        "dc48e8a5-24a2-492e-835f-b0b93be25758": {
+          "type": "list",
+          "settings": {
+            "heading": "Ultra Response",
+            "subheading": "Obstacle sensing",
+            "card_solid_button_icon": true,
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon-5.png",
+            "full_width": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "5576a9aa-3aa6-4319-8235-6e456903e3ae": {
+          "type": "list",
+          "settings": {
+            "heading": "HD Quality",
+            "subheading": "Video Streming",
+            "card_solid_button_icon": false,
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon-6.png",
+            "full_width": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore Now",
+            "button_icon": true,
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style": "primary",
+            "button_size": "small"
           }
         }
       },
       "block_order": [
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-0",
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-1",
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-2",
-        "template--15080390885449__3b93b78c-2d62-436b-b0f3-9277d5ecce14-167480259756623718-3"
+        "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-heading-1",
+        "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-text-1",
+        "66942aca-57e4-408d-bacb-9f3e74c2ee00",
+        "0005b959-0b80-4510-97c2-08c26bea945b",
+        "3cb1bd78-790f-4336-822d-362378e0932e",
+        "a85915c7-cf99-47bb-9795-38581020ad02",
+        "dc48e8a5-24a2-492e-835f-b0b93be25758",
+        "5576a9aa-3aa6-4319-8235-6e456903e3ae",
+        "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-button-1"
       ],
       "settings": {
         "container": "container-fluid",
+        "image": "shopify:\/\/shop_images\/image.png",
+        "transparent_media": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "card_content_padding": "medium",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 90,
-        "padding_bottom": 0,
+        "padding_bottom": 90,
         "mobile_padding_top": 65,
-        "mobile_padding_bottom": 0,
-        "color_scheme": "background-1"
+        "mobile_padding_bottom": 65
       }
     },
-    "16523828244947771d": {
-      "type": "product-tabs",
+    "875f7849-d628-42c5-9877-70d37d89582b": {
+      "type": "timeline",
       "blocks": {
-        "1652382824d82402c3-1": {
-          "type": "product_tab",
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-1": {
+          "type": "timeline",
           "settings": {
-            "title": "New Arrival",
-            "collection": "power-splitters-combiners",
-            "products_to_show": 10,
-            "show_view_all": true,
-            "button_label": "View all",
+            "navigation_label": "2020 GEN ONE",
+            "image": "shopify:\/\/shop_images\/Rectangle_14.png",
+            "transparent_media": true,
+            "heading": "Voice Assistant Integration",
+            "heading_size": "h3",
+            "heading_two": "Some headphones are optimized for use with voice assistants like Amazon Alexa, Google Assistant, or Apple's Siri.",
+            "heading_two_size": "h4",
+            "subheading": "Sound Sharing",
+            "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
+            "button_label": "Shop Now",
             "button_icon": true,
+            "button_link": "shopify:\/\/collections",
             "button_style": "primary",
-            "button_size": "medium"
+            "button_size": "small",
+            "content_position": "middle",
+            "content_alignment": "left"
           }
         },
-        "product_tab_pUUKpw": {
-          "type": "product_tab",
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-2": {
+          "type": "timeline",
           "settings": {
-            "title": "Featured",
-            "collection": "microwave-rack-mount-assemblies",
-            "products_to_show": 8,
-            "show_view_all": true,
-            "button_label": "View all",
+            "navigation_label": "2021 GEN TWO",
+            "image": "shopify:\/\/shop_images\/Rectangle_15.png",
+            "transparent_media": true,
+            "heading": "Voice Assistant Integration",
+            "heading_size": "h3",
+            "heading_two": "Some headphones are optimized for use with voice assistants like Amazon Alexa, Google Assistant, or Apple's Siri.",
+            "heading_two_size": "h4",
+            "subheading": "Sound Sharing",
+            "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
+            "button_label": "Shop Now",
             "button_icon": true,
+            "button_link": "shopify:\/\/collections\/all",
             "button_style": "primary",
-            "button_size": "medium"
+            "button_size": "small",
+            "content_position": "middle",
+            "content_alignment": "left"
           }
         },
-        "product_tab_XYkgcG": {
-          "type": "product_tab",
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-3": {
+          "type": "timeline",
           "settings": {
-            "title": "Trending",
-            "collection": "directional-couplers",
-            "products_to_show": 8,
-            "show_view_all": true,
-            "button_label": "View all",
+            "navigation_label": "2022 GEN THREE",
+            "image": "shopify:\/\/shop_images\/timeline-1.png",
+            "transparent_media": true,
+            "heading": "Voice Assistant Integration",
+            "heading_size": "h3",
+            "heading_two": "Some headphones are optimized for use with voice assistants like Amazon Alexa, Google Assistant, or Apple's Siri.",
+            "heading_two_size": "h4",
+            "subheading": "Sound Sharing",
+            "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
+            "button_label": "Shop Now",
             "button_icon": true,
+            "button_link": "shopify:\/\/collections\/all",
             "button_style": "primary",
-            "button_size": "medium"
+            "button_size": "small",
+            "content_position": "middle",
+            "content_alignment": "left"
+          }
+        },
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-4": {
+          "type": "timeline",
+          "settings": {
+            "navigation_label": "2023 GEN FOUR",
+            "image": "shopify:\/\/shop_images\/Rectangle_16.png",
+            "transparent_media": true,
+            "heading": "Voice Assistant Integration",
+            "heading_size": "h3",
+            "heading_two": "Some headphones are optimized for use with voice assistants like Amazon Alexa, Google Assistant, or Apple's Siri.",
+            "heading_two_size": "h4",
+            "subheading": "Sound Sharing",
+            "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
+            "button_label": "Shop Now",
+            "button_icon": true,
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style": "primary",
+            "button_size": "small",
+            "content_position": "middle",
+            "content_alignment": "left"
+          }
+        },
+        "138ccd10-dd8b-4143-9168-49608539a438": {
+          "type": "timeline",
+          "settings": {
+            "navigation_label": "2024 GEN FIVE",
+            "image": "shopify:\/\/shop_images\/Rectangle_15.png",
+            "transparent_media": true,
+            "heading": "Voice Assistant Integration",
+            "heading_size": "h3",
+            "heading_two": "Some headphones are optimized for use with voice assistants like Amazon Alexa, Google Assistant, or Apple's Siri.",
+            "heading_two_size": "h4",
+            "subheading": "Sound Sharing",
+            "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
+            "button_label": "Shop Now",
+            "button_icon": true,
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style": "primary",
+            "button_size": "small",
+            "content_position": "middle",
+            "content_alignment": "left"
           }
         }
       },
       "block_order": [
-        "1652382824d82402c3-1",
-        "product_tab_pUUKpw",
-        "product_tab_XYkgcG"
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-1",
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-2",
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-3",
+        "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-4",
+        "138ccd10-dd8b-4143-9168-49608539a438"
       ],
       "settings": {
         "container": "container-fluid",
+        "heading": "",
+        "heading_size": "h1",
         "subtitle": "",
-        "heading": "Featured collection",
-        "heading_position": "bottom",
-        "text_center": "center",
+        "alignment": "center",
+        "mobile_alignment": "center",
+        "height": "adapt",
+        "layout": "text_first",
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 35,
+        "color_scheme": "background-2"
+      }
+    },
+    "fbbe8be4-a506-42a6-b719-1d28e601aa0f": {
+      "type": "featured-collection",
+      "settings": {
+        "container": "container-fluid",
+        "subtitle": "Browse the best of our favorite sale styles and brands.",
+        "heading": "Bestsellers",
+        "heading_position": "top",
+        "text_center": "left",
+        "mobile_text_center": "center",
         "border_line": false,
-        "product_column": "5",
+        "timer": false,
+        "countdown_timer_label": "Hurry up! Offer ends in:",
+        "countdown_month": "01",
+        "countdown_days": "01",
+        "collection_card": false,
+        "image_place": "image_first",
+        "card_heading": "",
+        "card_text": "",
+        "card_button_label": "",
+        "card_button_type": "primary",
+        "card_button_icon": false,
+        "desktop_content_position": "top_left",
+        "collection_card_radius": false,
+        "card_color_scheme": "background-1",
+        "collection": "single-product",
+        "products_to_show": 8,
+        "product_column": "4",
         "product_column_laptop": "4",
         "product_column_tablet": "3",
         "product_column_mobile": "2",
-        "card_style": "style_1",
+        "card_style": "style_2",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "color_swatches": true,
@@ -279,223 +352,314 @@
         "show_compare_view_button": true,
         "show_wishlist_button": true,
         "show_title": true,
-        "enable_word_limit": false,
-        "word_counter": 5,
         "show_price": true,
         "show_vendor": false,
         "show_countdown": true,
-        "show_product_rating": true,
-        "show_border": true,
+        "show_product_rating": false,
         "product_card_radius": true,
-        "product_card_spacing": false,
-        "product_card_color_scheme": "",
+        "product_card_spacing": true,
+        "product_card_color_scheme": "background-2",
+        "slider_enable": true,
+        "show_pagination": false,
+        "show_navigation": true,
+        "slider_loop": true,
+        "slider_rows": "1",
+        "button_label": "View All",
+        "button_icon": true,
+        "underline": false,
+        "icon_type": "chevron",
+        "button_type": "link_to_collection",
+        "button_position": "top",
+        "button_design": "link",
+        "button_size": "medium",
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 65,
+        "color_scheme": "background-1"
+      }
+    },
+    "a7b49381-1634-4350-b0de-1b82dcbf6e8b": {
+      "type": "feature-product",
+      "blocks": {
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-title-1": {
+          "type": "title",
+          "settings": {}
+        },
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-price-1": {
+          "type": "price",
+          "settings": {}
+        },
+        "b3f26312-4295-496a-bfef-33dc81fd4364": {
+          "type": "countdown",
+          "settings": {
+            "countdown_label": "Hurry up! Sale ends in",
+            "icon_enable": true,
+            "timer_background": "#0067ff",
+            "timer_foreground": "#ffffff"
+          }
+        },
+        "4e8f9c4d-8909-418f-be58-b5701425a070": {
+          "type": "inventory",
+          "settings": {
+            "countdown_label": "Hurry up! Sale ends in",
+            "progress_bg_color": "#f5f5f5",
+            "colors_accent_1": "#0067ff",
+            "gradient_accent_1": ""
+          }
+        },
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_color_swatch": true,
+            "choose_options_name": "Color",
+            "color_option_style": "color",
+            "color_option_design": "round"
+          }
+        },
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "quantity__button": true,
+            "preorder_button": true,
+            "show_dynamic_checkout": true,
+            "guarantee_safe_checkout": false,
+            "safe_checkout_text": "Guaranteed safe checkout"
+          }
+        },
+        "7f85abe8-0605-4308-86a8-efad32c522f7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share",
+            "share_link": true,
+            "facebook_share": true,
+            "twitter_share": true,
+            "pinterest_share": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-title-1",
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-price-1",
+        "b3f26312-4295-496a-bfef-33dc81fd4364",
+        "4e8f9c4d-8909-418f-be58-b5701425a070",
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-variant_picker-1",
+        "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-buy_buttons-1",
+        "7f85abe8-0605-4308-86a8-efad32c522f7"
+      ],
+      "settings": {
+        "container": "container-fluid",
+        "product": "copy-of-black-in-ear-bluetooth-headphones",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "medium",
+        "media_height": "adapt",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_sticky_info": true,
         "padding_top": 90,
         "padding_bottom": 90,
         "mobile_padding_top": 65,
         "mobile_padding_bottom": 65
       }
     },
-    "df2dea14-52f8-42bc-b798-687f25d8327e": {
-      "type": "countdown-banner",
-      "settings": {
-        "snow_fall": false,
-        "container": "container-fluid",
-        "image": "shopify://shop_images/Quality.webp",
-        "image_overlay_opacity": 30,
-        "full_width": true,
-        "round_corner": true,
-        "video_enable": false,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "countdown_time": "2024-07-05",
-        "heading": "Deals Of The Day",
-        "subheading": "UP TO 70% OFF",
-        "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
-        "button_label": "Shop now",
-        "button_icon": true,
-        "button_link": "shopify://collections/all",
-        "button_type": "primary",
-        "button_size": "large",
-        "text_center": "left",
-        "padding_top": 150,
-        "padding_bottom": 150,
-        "mobile_padding_top": 80,
-        "mobile_padding_bottom": 85,
-        "color_scheme": "inverse",
-        "custom_colors": false,
-        "foreground": "#121212",
-        "background": "#f7f8fc",
-        "accent_1_bg": "#ee2761",
-        "accent_1_text": "#ffffff"
-      }
-    },
-    "76f4150e-0497-414a-b216-dff5ab46b42a": {
-      "type": "lookbook-slider",
+    "647da7f0-448c-4514-92c0-186f8fdbf14b": {
+      "type": "featured-promotion",
       "blocks": {
-        "template--15189188575305__6432dc42-1780-4b03-a711-4be922734dbb-look-1": {
-          "type": "look",
+        "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-1": {
+          "type": "featured_promotion",
           "settings": {
-            "product": "columbia-sportswear",
-            "quick_shop": true,
-            "hotspot_x": 36,
-            "hotspot_y": 65,
-            "background_1": "#ffffff",
-            "background_2_gradient": ""
+            "heading": "Repair and maintenance",
+            "subheading": "Regularly clean and maintain your headphones to extend their lifespan.",
+            "icon": "headphone",
+            "feature_image_icon": "shopify:\/\/shop_images\/Group_22128.png"
           }
         },
-        "7f19b91d-2a8f-41c0-9f6f-de99724d9372": {
-          "type": "look",
+        "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-2": {
+          "type": "featured_promotion",
           "settings": {
-            "product": "copy-of-vibrant-floral-embroidered-dress-4",
-            "quick_shop": true,
-            "hotspot_x": 42,
-            "hotspot_y": 88,
-            "background_1": "#ffffff",
-            "background_2_gradient": ""
+            "heading": "Warranty coverage",
+            "subheading": "Check your warranty to see if repairs are covered.",
+            "icon": "return",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon2.png"
           }
         },
-        "39e4a402-efc3-4000-8077-9522e2aff193": {
-          "type": "look",
+        "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-3": {
+          "type": "featured_promotion",
           "settings": {
-            "product": "copy-of-columbia-sportswear",
-            "quick_shop": true,
-            "hotspot_x": 42,
-            "hotspot_y": 22,
-            "background_1": "#ffffff",
-            "background_2_gradient": ""
+            "heading": "Authorized service centers",
+            "subheading": "Use authorized service centers for reliable repairs.",
+            "icon": "payment",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon3.png"
+          }
+        },
+        "e17134d0-1506-4785-a270-dd3c488778ba": {
+          "type": "featured_promotion",
+          "settings": {
+            "heading": "DIY Repairs",
+            "subheading": "Learn basic headphone repair skills for minor issues.",
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon4.png"
+          }
+        },
+        "046e93d2-9fc3-4b50-b9da-77b3b027acc6": {
+          "type": "featured_promotion",
+          "settings": {
+            "heading": "Upgrades",
+            "subheading": "Consider upgrading ear cushions or cables for improved performance.",
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon5.png"
+          }
+        },
+        "070f8479-7b9e-4003-9b23-7b50bfc706dc": {
+          "type": "featured_promotion",
+          "settings": {
+            "heading": "Compatibility",
+            "subheading": "Ensure your headphones work with your devices and audio sources.",
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon6.png"
+          }
+        },
+        "13aab939-1443-4c9a-bef7-87785630d913": {
+          "type": "featured_promotion",
+          "settings": {
+            "heading": "Customization",
+            "subheading": "Explore custom earpad options for comfort and style.",
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon7.png"
+          }
+        },
+        "549fe1ff-20a2-4e7a-b74a-185cad6cb73b": {
+          "type": "featured_promotion",
+          "settings": {
+            "heading": "Professional advice",
+            "subheading": "Seek guidance from headphone experts for optimal performance.",
+            "icon": "truck",
+            "feature_image_icon": "shopify:\/\/shop_images\/icon8.png"
           }
         }
       },
       "block_order": [
-        "template--15189188575305__6432dc42-1780-4b03-a711-4be922734dbb-look-1",
-        "7f19b91d-2a8f-41c0-9f6f-de99724d9372",
-        "39e4a402-efc3-4000-8077-9522e2aff193"
+        "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-1",
+        "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-2",
+        "template--21698843869483__647da7f0-448c-4514-92c0-186f8fdbf14b-featured_promotion-3",
+        "e17134d0-1506-4785-a270-dd3c488778ba",
+        "046e93d2-9fc3-4b50-b9da-77b3b027acc6",
+        "070f8479-7b9e-4003-9b23-7b50bfc706dc",
+        "13aab939-1443-4c9a-bef7-87785630d913",
+        "549fe1ff-20a2-4e7a-b74a-185cad6cb73b"
       ],
       "settings": {
-        "snow_fall": false,
         "container": "container-fluid",
-        "subtitle": "",
-        "heading": "Shop The Look",
-        "heading_position": "bottom",
+        "subtitle": "These power features enhance the functionality and user experience of AirPods, providing advanced capabilities and innovative technologies for a truly exceptional audio experience.",
+        "heading": "Our Services",
+        "heading_position": "top",
         "text_center": "center",
         "border_line": false,
-        "heading_place": "inside",
-        "image": "shopify://shop_images/Secure_Payments.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "round_corner": true,
-        "card_style": "style_2",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "color_swatches": true,
-        "show_badges": true,
-        "show_cart_button": true,
-        "show_quick_view_button": true,
-        "show_compare_view_button": true,
-        "show_wishlist_button": true,
-        "show_title": true,
-        "enable_word_limit": false,
-        "word_counter": 5,
-        "show_price": true,
-        "show_vendor": false,
-        "show_countdown": false,
-        "show_product_rating": false,
-        "color_scheme": "background-1",
-        "hotspot_active_color": "linear-gradient(127deg, rgba(254, 217, 81, 1) 11%, rgba(255, 70, 199, 1) 81%)",
+        "desktop_column": "4",
+        "laptop_column": "3",
+        "mobile_column": "1",
+        "heading_size": "h5",
+        "card_solid_button_icon": true,
+        "icon_position": "top",
+        "alignment": "center",
+        "card_padding": "medium",
+        "feature_card_radius": true,
+        "card_color_scheme": "background-2",
         "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 65,
+        "color_scheme": "background-1"
+      }
+    },
+    "b32c46de-3667-4009-bf1a-4795e20e487c": {
+      "type": "video",
+      "settings": {
+        "container": "container-fluid",
+        "show_offset": false,
+        "subtitle": "",
+        "heading": "",
+        "text_center": "center",
+        "video": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "enable_video_looping": false,
+        "cover_image": "shopify:\/\/shop_images\/change_0ddb5cc8-4228-4d6d-836e-ca5702f7b6fb.png",
+        "height": "adapt",
+        "description": "",
+        "padding_top": 0,
         "padding_bottom": 0,
-        "mobile_padding_top": 60,
+        "mobile_padding_top": 0,
         "mobile_padding_bottom": 0
       }
     },
-    "05d58209-1cee-4f65-8750-ed582e4f3e75": {
-      "type": "scrolling-text",
+    "936101a9-deab-483d-9d04-c9b187840105": {
+      "type": "faq",
       "blocks": {
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-0": {
-          "type": "announcement",
+        "template--21698843869483__936101a9-deab-483d-9d04-c9b187840105-accordion-1": {
+          "type": "accordion",
           "settings": {
-            "text": "Trending Fashion Picks",
-            "text_stroke": false
+            "heading": "1. What are headphones?",
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
           }
         },
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-1": {
-          "type": "announcement",
+        "template--21698843869483__936101a9-deab-483d-9d04-c9b187840105-accordion-2": {
+          "type": "accordion",
           "settings": {
-            "text": "Unbeatable Fashion Discounts",
-            "text_stroke": true
+            "heading": "2. What are the different types of headphones?",
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
           }
         },
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-2": {
-          "type": "announcement",
+        "d3439abd-0566-4272-becd-5cbf37d2b05a": {
+          "type": "accordion",
           "settings": {
-            "text": "Fashion Tips & Tricks",
-            "text_stroke": false
+            "heading": "3. What's the difference between open-back and closed-back headphones?",
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
           }
         },
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-3": {
-          "type": "announcement",
+        "86133c53-f82f-451f-b068-11ce55301767": {
+          "type": "accordion",
           "settings": {
-            "text": "Glam up Your Outfits",
-            "text_stroke": true
+            "heading": "4. Are wireless headphones better than wired ones?",
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
           }
         },
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-4": {
-          "type": "announcement",
+        "d7bf074c-c443-4fe4-ad3b-2c8bde8d7cc9": {
+          "type": "accordion",
           "settings": {
-            "text": "Dress Your Best for Less!",
-            "text_stroke": false
-          }
-        },
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-5": {
-          "type": "announcement",
-          "settings": {
-            "text": "Hot Deals on Cool Fashion!",
-            "text_stroke": true
-          }
-        },
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-6": {
-          "type": "announcement",
-          "settings": {
-            "text": "Save Big on Fashion Favorites!",
-            "text_stroke": false
-          }
-        },
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-7": {
-          "type": "announcement",
-          "settings": {
-            "text": "Limited Offer Sales!",
-            "text_stroke": true
+            "heading": "5. What is active noise cancellation (ANC)?",
+            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-0",
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-1",
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-2",
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-3",
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-4",
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-5",
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-6",
-        "template--15080390885449__98bf166f-aec1-4b51-9158-674d65a6dfeb-1682924312dfa2d163-7"
+        "template--21698843869483__936101a9-deab-483d-9d04-c9b187840105-accordion-1",
+        "template--21698843869483__936101a9-deab-483d-9d04-c9b187840105-accordion-2",
+        "d3439abd-0566-4272-becd-5cbf37d2b05a",
+        "86133c53-f82f-451f-b068-11ce55301767",
+        "d7bf074c-c443-4fe4-ad3b-2c8bde8d7cc9"
       ],
-      "disabled": true,
       "settings": {
-        "speed": 28,
-        "direction": "left",
-        "text_size": "h2",
-        "bullet_style": false,
-        "margin_top": 90,
-        "margin_bottom": 0,
-        "mobile_margin_top": 60,
-        "mobile_margin_bottom": 0,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "mobile_padding_top": 35,
-        "mobile_padding_bottom": 35,
-        "color_scheme": "",
-        "custom_colors": false,
-        "foreground": "#121212",
-        "background": "#f5efe7"
+        "container": "container-fluid",
+        "subtitle": "",
+        "heading": "Frequently Ask Question",
+        "heading_position": "bottom",
+        "text_center": "center",
+        "border_line": false,
+        "enable_image": true,
+        "image": "shopify:\/\/shop_images\/Group_22129.png",
+        "height": "adapt",
+        "round_corner": true,
+        "image_position": "left",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "mobile_image_position": "top",
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 65
       }
     },
     "ddce4974-33ea-48ee-816f-fbd94eb4a0fb": {
@@ -504,50 +668,55 @@
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-0": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Jhone Doe</p>",
+            "heading": "<p>Jhone Doe<\/p>",
             "subheading": "Developer",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
             "rating": "5",
+            "image": "shopify:\/\/shop_images\/Ellipse_308.png",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-1": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Nike sime</p>",
+            "heading": "<p>Nike sime<\/p>",
             "subheading": "Designer",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
             "rating": "4",
+            "image": "shopify:\/\/shop_images\/team2.webp",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-2": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Samule Das</p>",
+            "heading": "<p>Samule Das<\/p>",
             "subheading": "Manager",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
             "rating": "2",
+            "image": "shopify:\/\/shop_images\/Ellipse_273_1.png",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-3": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>David Lu</p>",
+            "heading": "<p>David Lu<\/p>",
             "subheading": "CEO",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
             "rating": "5",
+            "image": "shopify:\/\/shop_images\/Ellipse_273_2.png",
             "author_image": true
           }
         },
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-4": {
           "type": "testimonial",
           "settings": {
-            "heading": "<p>Maxwel</p>",
+            "heading": "<p>Maxwel<\/p>",
             "subheading": "CTO",
-            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.</p>",
+            "text": "<p>Thanks for the feedback. We are always looking to improve our product and we would love to look into this issue with you further.<\/p>",
             "rating": "3",
+            "image": "shopify:\/\/shop_images\/Ellipse_273.png",
             "author_image": true
           }
         }
@@ -572,7 +741,7 @@
         "card_image_style": "top",
         "image_ratio": "circle",
         "heading_size": "h5",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "background_transparent": false,
         "rating_color": "#ffce31",
         "slider_enable": true,
@@ -587,7 +756,7 @@
         "products_show_on_tablet": 2,
         "products_show_on_mobile": 1,
         "padding_top": 90,
-        "padding_bottom": 50,
+        "padding_bottom": 65,
         "mobile_padding_top": 60,
         "mobile_padding_bottom": 35,
         "custom_colors": false,
@@ -596,6 +765,206 @@
         "card_foreground": "#121212",
         "card_background": "#ffffff",
         "border_color": "#ee2761"
+      }
+    },
+    "d48e8a36-035d-49fd-908b-8d513e043457": {
+      "type": "best-deals-products",
+      "settings": {
+        "container": "container-fluid",
+        "subtitle": "",
+        "heading": "Best Deals Product",
+        "heading_position": "bottom",
+        "text_center": "left",
+        "mobile_text_center": "center",
+        "border_line": false,
+        "timer": true,
+        "countdown_timer_label": "Hurry up! Offer ends in:",
+        "countdown_year": 2025,
+        "countdown_month": "01",
+        "countdown_days": "01",
+        "collection": "single-product",
+        "products_to_show": 4,
+        "product_column": "2",
+        "product_column_tablet": "1",
+        "product_column_mobile": "1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_badges": false,
+        "show_cart_button": true,
+        "show_preorder_button": true,
+        "show_title": true,
+        "show_price": true,
+        "show_vendor": false,
+        "show_countdown": false,
+        "show_product_rating": true,
+        "product_card_radius": true,
+        "product_card_spacing": true,
+        "card_border": true,
+        "inventory_status": true,
+        "progress_bg_color": "#cacaca",
+        "progress_foreground_color": "#0067ff",
+        "product_card_color_scheme": "background-2",
+        "card_button_type": "link",
+        "card_button_icon": true,
+        "slider_enable": true,
+        "show_pagination": false,
+        "show_navigation": false,
+        "slider_loop": false,
+        "slider_rows": "1",
+        "button_label": "",
+        "button_icon": true,
+        "underline": false,
+        "icon_type": "arrow",
+        "button_position": "bottom",
+        "button_design": "primary",
+        "button_size": "medium",
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 65,
+        "color_scheme": "background-2"
+      }
+    },
+    "db3742a6-fa37-4b84-bda8-4a732c4ef531": {
+      "type": "scrolling-text",
+      "blocks": {
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "YOU’LL LOVE IT",
+            "text_stroke": false
+          }
+        },
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-2": {
+          "type": "announcement",
+          "settings": {
+            "text": "A PERSONAL TOUCH",
+            "text_stroke": true
+          }
+        },
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-3": {
+          "type": "announcement",
+          "settings": {
+            "text": "JEWELRYIZE ME",
+            "text_stroke": false
+          }
+        },
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-4": {
+          "type": "announcement",
+          "settings": {
+            "text": "THE LATEST TRENDS",
+            "text_stroke": true
+          }
+        },
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-5": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE DELIVERY",
+            "text_stroke": false
+          }
+        },
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-6": {
+          "type": "announcement",
+          "settings": {
+            "text": "QULAITY YOU CAN TRUST",
+            "text_stroke": true
+          }
+        },
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-7": {
+          "type": "announcement",
+          "settings": {
+            "text": "YOU’LL LOVE IT",
+            "text_stroke": false
+          }
+        },
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-8": {
+          "type": "announcement",
+          "settings": {
+            "text": "A PERSONAL TOUCH",
+            "text_stroke": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-1",
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-2",
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-3",
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-4",
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-5",
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-6",
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-7",
+        "template--21698843869483__db3742a6-fa37-4b84-bda8-4a732c4ef531-announcement-8"
+      ],
+      "settings": {
+        "speed": 20,
+        "direction": "left",
+        "text_size": "h4",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "mobile_margin_top": 0,
+        "mobile_margin_bottom": 0,
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "mobile_padding_top": 25,
+        "mobile_padding_bottom": 25,
+        "color_scheme": "accent-2",
+        "custom_colors": false,
+        "foreground": "#121212",
+        "background": "#ffffff"
+      }
+    },
+    "be52e9ff-0055-4d35-a3e9-3ff4ed5edc92": {
+      "type": "contact-form",
+      "blocks": {
+        "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-contact_list-1": {
+          "type": "contact_list",
+          "settings": {
+            "heading": "Email",
+            "icon": "email",
+            "text": "<p><strong>example@gmail.com<\/strong><br\/>demoo@gmail.com<\/p>"
+          }
+        },
+        "d276508c-95bb-4afc-8c7f-7d91db84af4f": {
+          "type": "contact_list",
+          "settings": {
+            "heading": "Phone",
+            "icon": "phone",
+            "text": "<p> <strong> (372) 587-2335 <\/strong> <br\/> (372) 555-4665<\/p>"
+          }
+        },
+        "1c47aabd-faaf-489d-a8b5-d73dd9c2c494": {
+          "type": "contact_list",
+          "settings": {
+            "heading": "Address",
+            "icon": "address",
+            "text": "<p>125 MOUNT STREET<br\/>LONDON<br\/>W1K 3NS<\/p>"
+          }
+        },
+        "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-scoial_media-1": {
+          "type": "scoial_media",
+          "settings": {
+            "heading": "Follow us"
+          }
+        }
+      },
+      "block_order": [
+        "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-contact_list-1",
+        "d276508c-95bb-4afc-8c7f-7d91db84af4f",
+        "1c47aabd-faaf-489d-a8b5-d73dd9c2c494",
+        "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-scoial_media-1"
+      ],
+      "settings": {
+        "container": "container-fluid",
+        "subtitle": "",
+        "heading": "Have A Question?",
+        "heading_position": "bottom",
+        "text_center": "center",
+        "border_line": false,
+        "color_scheme": "background-2",
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 65
       }
     },
     "16612826014390f0b2": {
@@ -607,7 +976,7 @@
         "heading_position": "bottom",
         "text_center": "center",
         "border_line": false,
-        "blog": "news",
+        "blog": "single-product",
         "post_limit": 5,
         "show_image": true,
         "show_content": false,
@@ -617,7 +986,7 @@
         "button_label": "Load more",
         "button_icon": true,
         "read_more_btn_type": "secondary",
-        "card_color_scheme": "",
+        "card_color_scheme": "background-2",
         "card_corner_radius": false,
         "show_view_all": false,
         "view_all": "View All",
@@ -638,106 +1007,21 @@
         "mobile_padding_top": 0,
         "mobile_padding_bottom": 55
       }
-    },
-    "109ac81e-6849-4b15-89bd-44e649b77dee": {
-      "type": "gallery",
-      "blocks": {
-        "template--15199563186249__109ac81e-6849-4b15-89bd-44e649b77dee-item-1": {
-          "type": "item",
-          "settings": {
-            "product": "",
-            "icon": "youtube",
-            "link": "https://www.instagram.com/p/CrcltLDO6wY/"
-          }
-        },
-        "template--15199563186249__109ac81e-6849-4b15-89bd-44e649b77dee-item-2": {
-          "type": "item",
-          "settings": {
-            "product": "",
-            "icon": "instagram",
-            "link": "https://www.instagram.com/p/CxQvG4bhPuw/"
-          }
-        },
-        "a2807f6d-a1c3-4221-a71d-a269f9b5af96": {
-          "type": "item",
-          "settings": {
-            "product": "",
-            "icon": "instagram",
-            "link": "https://www.instagram.com/p/CxQvJTGhrZP/"
-          }
-        },
-        "a125fb23-2be3-433f-932c-993842777f68": {
-          "type": "item",
-          "settings": {
-            "product": "",
-            "icon": "instagram",
-            "link": "https://www.instagram.com/p/CxQvNXVBjFS/"
-          }
-        },
-        "af42265d-74dc-4179-ae3b-e18eae84d690": {
-          "type": "item",
-          "settings": {
-            "product": "",
-            "icon": "instagram",
-            "link": "https://www.instagram.com/p/CxQvP5FBsRl/"
-          }
-        },
-        "fcfd614a-0bd9-45b5-acbb-61729a3a5dcc": {
-          "type": "item",
-          "settings": {
-            "product": "",
-            "icon": "instagram",
-            "link": "https://www.instagram.com/p/CxQvSGmhC6F/"
-          }
-        }
-      },
-      "block_order": [
-        "template--15199563186249__109ac81e-6849-4b15-89bd-44e649b77dee-item-1",
-        "template--15199563186249__109ac81e-6849-4b15-89bd-44e649b77dee-item-2",
-        "a2807f6d-a1c3-4221-a71d-a269f9b5af96",
-        "a125fb23-2be3-433f-932c-993842777f68",
-        "af42265d-74dc-4179-ae3b-e18eae84d690",
-        "fcfd614a-0bd9-45b5-acbb-61729a3a5dcc"
-      ],
-      "settings": {
-        "snow_fall": false,
-        "container": "container-fluid",
-        "show_offset": true,
-        "subtitle": "Become a member of the <a href=\"https://www.instagram.com/hooktheme/\" target=\"_blank\" title=\"https://www.instagram.com/hooktheme/\">@hooktheme</a> community",
-        "heading": "Instagram shop",
-        "heading_position": "top",
-        "text_center": "center",
-        "border_line": false,
-        "image_ratio": "square",
-        "round_corner": true,
-        "space": true,
-        "image_overlay_opacity": 20,
-        "p_color_scheme": "",
-        "layout": "slider",
-        "products_show_on_xl": "5",
-        "products_show_on_sm": "2",
-        "mobile_stack": false,
-        "auto_rotate": false,
-        "change_slides_speed": 3,
-        "enable_loop": true,
-        "show_navigation": true,
-        "color_scheme_navigation": "",
-        "padding_top": 0,
-        "padding_bottom": 90,
-        "mobile_padding_top": 0,
-        "mobile_padding_bottom": 60
-      }
     }
   },
   "order": [
     "1631620567897133df",
-    "3b93b78c-2d62-436b-b0f3-9277d5ecce14",
-    "16523828244947771d",
-    "df2dea14-52f8-42bc-b798-687f25d8327e",
-    "76f4150e-0497-414a-b216-dff5ab46b42a",
-    "05d58209-1cee-4f65-8750-ed582e4f3e75",
+    "65ac3ebe-6498-4996-a7d3-9f4bbdc352d7",
+    "875f7849-d628-42c5-9877-70d37d89582b",
+    "fbbe8be4-a506-42a6-b719-1d28e601aa0f",
+    "a7b49381-1634-4350-b0de-1b82dcbf6e8b",
+    "647da7f0-448c-4514-92c0-186f8fdbf14b",
+    "b32c46de-3667-4009-bf1a-4795e20e487c",
+    "936101a9-deab-483d-9d04-c9b187840105",
     "ddce4974-33ea-48ee-816f-fbd94eb4a0fb",
-    "16612826014390f0b2",
-    "109ac81e-6849-4b15-89bd-44e649b77dee"
+    "d48e8a36-035d-49fd-908b-8d513e043457",
+    "db3742a6-fa37-4b84-bda8-4a732c4ef531",
+    "be52e9ff-0055-4d35-a3e9-3ff4ed5edc92",
+    "16612826014390f0b2"
   ]
 }

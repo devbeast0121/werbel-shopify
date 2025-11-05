@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "type": "footer",
   "name": "Footer",
@@ -18,14 +9,15 @@
           "type": "about_us",
           "settings": {
             "heading": "About us",
-            "about_information": "<p>The exciting contemporary brand Suruchi is known for its attention to detail and premium graphics.<\/p>"
+            "about_information": "<p>The exciting contemporary brand Suruchi is known for its attention to detail and premium graphics.<\/p>",
+            "social_media": true
           }
         },
         "6c12f5ad-1f2b-4d5d-a59e-5931a27ed7cc": {
           "type": "link_list",
           "settings": {
             "heading": "Quick Links",
-            "menu": ""
+            "menu": "footer-menu-2"
           }
         },
         "3d7e2d8c-1b8e-4e2d-be90-97680e4c4ac5": {
@@ -38,7 +30,8 @@
         "ca40fd6b-fe3b-4f24-94a9-90f4dd0a84de": {
           "type": "newsletter",
           "settings": {
-            "heading": "Newsletter"
+            "heading": "Newsletter",
+            "text": "<p>Write your email first to know about any information<\/p>"
           }
         }
       },
@@ -49,10 +42,12 @@
         "ca40fd6b-fe3b-4f24-94a9-90f4dd0a84de"
       ],
       "settings": {
+        "snow_fall": false,
         "container": "container-fluid",
         "color_scheme": "background-2",
         "column": "4",
         "powered_by": "<p>Powered by <a href=\"https:\/\/help.risingtheme.com\/\" target=\"_blank\" title=\"https:\/\/help.risingtheme.com\/\">HookThemes <\/a><\/p>",
+        "enable_follow_on_shop": true,
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_icons_type": "manual",
@@ -144,13 +139,16 @@
         "show_visitors": true,
         "delay": 5,
         "dont_show": true,
+        "dont_show_button_label": "No Thanks!",
         "expire": 7,
         "popup_position": "center",
         "popup_width": "medium",
         "alignment": "left",
+        "corner_radius": false,
         "image_position": "left",
         "full--bg-image": false,
-        "image_overlay_opacity": 0
+        "image_overlay_opacity": 0,
+        "color_scheme": ""
       }
     }
   },
