@@ -40,7 +40,7 @@
       "settings": {
         "snow_fall": false,
         "container": "container-fluid",
-        "slide_height": "large",
+        "slide_height": "adapt_image",
         "show_pagination": false,
         "show_navigation": false,
         "color_scheme_navigation": "accent-1",
