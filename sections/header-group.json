@@ -77,13 +77,11 @@
           "type": "menu_promo_banner",
           "settings": {
             "heading": "Home",
-            "image": "shopify://shop_images/WMHPDDC-80-1000M-40dB-N-1-300x300.png",
-            "height": "square",
+            "height": "adapt",
             "promo1_heading": "",
             "promo1_text": "",
             "promo1_link": "",
-            "image_2": "shopify://shop_images/WMHPDDC-80-1000M-40dB-N-1-768x768_a52cca05-52ad-4f2c-a690-259cb5870932.png",
-            "height_2": "square",
+            "height_2": "adapt",
             "promo2_heading": "",
             "promo2_text": "",
             "promo2_link": ""
@@ -93,13 +91,11 @@
           "type": "menu_promo_banner",
           "settings": {
             "heading": "Shop",
-            "image": "shopify://shop_images/WMRD16-7.2-S-1-300x300.png",
             "height": "square",
             "promo1_heading": "UP TO 70% OFF",
             "promo1_text": "<p>Shop Now</p>",
             "promo1_link": "shopify://collections",
-            "image_2": "shopify://shop_images/WMQH-1-2-S-300x300.png",
-            "height_2": "square",
+            "height_2": "adapt",
             "promo2_heading": "",
             "promo2_text": "",
             "promo2_link": ""
