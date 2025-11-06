@@ -91,7 +91,7 @@
           "type": "menu_promo_banner",
           "settings": {
             "heading": "Shop",
-            "height": "square",
+            "height": "adapt",
             "promo1_heading": "UP TO 70% OFF",
             "promo1_text": "<p>Shop Now</p>",
             "promo1_link": "shopify://collections",
@@ -121,7 +121,7 @@
             "product_column": "2",
             "product_column_laptop": "2",
             "card_style": "style_2",
-            "image_ratio": "square",
+            "image_ratio": "adapt",
             "show_secondary_image": true,
             "show_badges": false,
             "show_cart_button": true,
