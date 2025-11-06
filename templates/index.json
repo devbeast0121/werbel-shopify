@@ -369,29 +369,43 @@
         "featured_collection_K67zMH": {
           "type": "featured_collection",
           "settings": {
-            "collection": "directional-couplers",
-            "image": "shopify://shop_images/Active-Splitters1_80bf61a9-0676-4ba8-908f-d69893b1ff28.png"
+            "collection": "directional-couplers"
           }
         },
         "featured_collection_EfEfj3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "microwave-rack-mount-assemblies",
-            "image": "shopify://shop_images/Hybrids1_9b832e83-83cd-439d-8328-4f5ba780de63.png"
+            "collection": "microwave-rack-mount-assemblies"
           }
         },
         "featured_collection_WER3pG": {
           "type": "featured_collection",
           "settings": {
-            "collection": "power-splitters-combiners",
-            "image": "shopify://shop_images/Resistive-Splitters-Taps1_8a8fa310-c3ab-45e5-8794-856f2dddfe28.png"
+            "collection": "power-splitters-combiners"
           }
         },
         "featured_collection_fFLf6W": {
           "type": "featured_collection",
           "settings": {
-            "collection": "directional-couplers",
-            "image": "shopify://shop_images/Power-Splitters_012b0eb5-0035-43f7-a85f-22ef31de1a59.png"
+            "collection": "directional-couplers"
+          }
+        },
+        "featured_collection_YzqidN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "active-splitters"
+          }
+        },
+        "featured_collection_adTPaH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hybrid-couplers"
+          }
+        },
+        "featured_collection_Hcja73": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "resistive-power-splitters-taps"
           }
         }
       },
@@ -399,7 +413,10 @@
         "featured_collection_K67zMH",
         "featured_collection_EfEfj3",
         "featured_collection_WER3pG",
-        "featured_collection_fFLf6W"
+        "featured_collection_fFLf6W",
+        "featured_collection_YzqidN",
+        "featured_collection_adTPaH",
+        "featured_collection_Hcja73"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
