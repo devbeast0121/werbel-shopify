@@ -91,11 +91,13 @@
           "type": "menu_promo_banner",
           "settings": {
             "heading": "Shop",
-            "height": "adapt",
+            "image": "shopify://shop_images/WMRD16-7.2-S-1-300x300.png",
+            "height": "square",
             "promo1_heading": "UP TO 70% OFF",
             "promo1_text": "<p>Shop Now</p>",
             "promo1_link": "shopify://collections",
-            "height_2": "adapt",
+            "image_2": "shopify://shop_images/WMQH-1-2-S-300x300.png",
+            "height_2": "square",
             "promo2_heading": "",
             "promo2_text": "",
             "promo2_link": ""
@@ -106,12 +108,14 @@
           "settings": {
             "heading": "Products",
             "product_list": [
-              "copy-of-wireless-computer-mouse",
-              "copy-of-xbox-gamepad-controller",
-              "copy-of-huawei-p40-pro-phone",
-              "copy-of-amazon-3rd-speaker",
-              "copy-of-blue-computer-mouse",
-              "copy-of-tough-apple-watch"
+              "bkt-1830",
+              "d-2182",
+              "d-2182-n",
+              "d-2185",
+              "d-3182",
+              "d-3182-1",
+              "d-4185-1",
+              "d-4185-1-1"
             ],
             "product_heading": "",
             "product_column_width": "third",
@@ -119,7 +123,7 @@
             "product_column": "2",
             "product_column_laptop": "2",
             "card_style": "style_2",
-            "image_ratio": "adapt",
+            "image_ratio": "square",
             "show_secondary_image": true,
             "show_badges": false,
             "show_cart_button": true,
