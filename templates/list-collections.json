@@ -35,53 +35,62 @@
         "e3951533-bc33-4d84-8a0c-e5c455434077": {
           "type": "collection_item",
           "settings": {
-            "collection": "street-outfit",
-            "image": "shopify://shop_images/12_52d4d036-8698-44cf-9bd0-4ab793e55153.png"
+            "collection": "directional-couplers"
+          }
+        },
+        "collection_item_hXNJiB": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "active-splitters"
           }
         },
         "ed29ac01-3ea4-47f4-84c9-8d133b58b522": {
           "type": "collection_item",
           "settings": {
-            "collection": "jacket-women",
-            "image": "shopify://shop_images/5_e50a6ebb-f01f-4361-9d52-b0a2f3f8f3f4.png"
+            "collection": "dual-directional-and-multi-channel-couplers"
           }
         },
         "c9bcdd00-4a71-44a3-894d-9a8687797cce": {
           "type": "collection_item",
           "settings": {
-            "collection": "full-shot",
-            "image": "shopify://shop_images/6_fca8e99f-9d13-488c-b866-7fb14f9e75c7.png"
+            "collection": "hybrid-couplers"
           }
         },
         "collection_item_V9bWhT": {
           "type": "collection_item",
           "settings": {
-            "collection": "hipster",
-            "image": "shopify://shop_images/13_745ca0a5-8ab5-45b8-a8d8-71c7a284759c.png"
+            "collection": "microwave-rack-mount-assemblies"
           }
         },
         "collection_item_3kbadF": {
           "type": "collection_item",
           "settings": {
-            "collection": "women-cap",
-            "image": "shopify://shop_images/8_3db815b5-de1a-4758-9e8f-47f41fc7edd0.png"
+            "collection": "power-splitters-combiners"
+          }
+        },
+        "collection_item_PanwUq": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "resistive-power-splitters-taps"
           }
         }
       },
       "block_order": [
         "e3951533-bc33-4d84-8a0c-e5c455434077",
+        "collection_item_hXNJiB",
         "ed29ac01-3ea4-47f4-84c9-8d133b58b522",
         "c9bcdd00-4a71-44a3-894d-9a8687797cce",
         "collection_item_V9bWhT",
-        "collection_item_3kbadF"
+        "collection_item_3kbadF",
+        "collection_item_PanwUq"
       ],
       "settings": {
         "container": "container",
-        "collection_type": "selected",
+        "collection_type": "all",
         "layout": "standard",
         "column": "3",
         "product_count": true,
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "color_scheme": "background-1",
         "sort": "alphabetical_reversed",
         "title": "Collections",
@@ -101,8 +110,7 @@
           "settings": {
             "heading": "Free Returns",
             "subheading": "On all orders over $75.00",
-            "icon": "return",
-            "feature_image_icon": "shopify://shop_images/box-tick1.png"
+            "icon": "return"
           }
         },
         "template--15080390918217__8132c0bb-c8d4-4bd6-a62b-1c094b1cd364-167854745555ce15fa-2": {
@@ -110,8 +118,7 @@
           "settings": {
             "heading": "Secure Payment",
             "subheading": "On all orders over $75.00",
-            "icon": "payment",
-            "feature_image_icon": "shopify://shop_images/music-play1.png"
+            "icon": "payment"
           }
         },
         "template--15080390918217__8132c0bb-c8d4-4bd6-a62b-1c094b1cd364-167854745555ce15fa-3": {
@@ -119,8 +126,7 @@
           "settings": {
             "heading": "Gift Service",
             "subheading": "On all orders over $75.00",
-            "icon": "gift",
-            "feature_image_icon": "shopify://shop_images/shield-tick1.png"
+            "icon": "gift"
           }
         }
       },
