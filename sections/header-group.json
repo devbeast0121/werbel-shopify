@@ -77,11 +77,13 @@
           "type": "menu_promo_banner",
           "settings": {
             "heading": "Home",
-            "height": "adapt",
+            "image": "shopify://shop_images/WMHPDDC-80-1000M-40dB-N-1-300x300.png",
+            "height": "square",
             "promo1_heading": "",
             "promo1_text": "",
             "promo1_link": "",
-            "height_2": "adapt",
+            "image_2": "shopify://shop_images/WMHPDDC-80-1000M-40dB-N-1-768x768_a52cca05-52ad-4f2c-a690-259cb5870932.png",
+            "height_2": "square",
             "promo2_heading": "",
             "promo2_text": "",
             "promo2_link": ""
