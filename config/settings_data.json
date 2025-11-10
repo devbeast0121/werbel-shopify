@@ -101,7 +101,7 @@
           "secondary_button_hover_bg": "#121212",
           "secondary_button_hover_text": "#ffffff",
           "tex_link_hover_color": "#0067ff",
-          "highligt_text": "#EE2761",
+          "highligt_text": "#ee2761",
           "highligt_text_gradient": ""
         }
       },
@@ -118,7 +118,7 @@
           "secondary_button_hover_bg": "#121212",
           "secondary_button_hover_text": "#ffffff",
           "tex_link_hover_color": "#0067ff",
-          "highligt_text": "#EE2761",
+          "highligt_text": "#ee2761",
           "highligt_text_gradient": ""
         }
       },
@@ -135,7 +135,7 @@
           "secondary_button_hover_bg": "#121212",
           "secondary_button_hover_text": "#ffffff",
           "tex_link_hover_color": "#121212",
-          "highligt_text": "#EE2761",
+          "highligt_text": "#ee2761",
           "highligt_text_gradient": ""
         }
       },
@@ -152,7 +152,7 @@
           "secondary_button_hover_bg": "#121212",
           "secondary_button_hover_text": "#ffffff",
           "tex_link_hover_color": "#121212",
-          "highligt_text": "#EE2761",
+          "highligt_text": "#ee2761",
           "highligt_text_gradient": ""
         }
       },
@@ -169,7 +169,7 @@
           "secondary_button_hover_bg": "#121212",
           "secondary_button_hover_text": "#ffffff",
           "tex_link_hover_color": "#121212",
-          "highligt_text": "#EE2761",
+          "highligt_text": "#ee2761",
           "highligt_text_gradient": ""
         }
       }
@@ -204,5 +204,8 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": []
   }
 }
