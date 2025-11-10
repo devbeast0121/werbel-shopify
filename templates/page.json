@@ -41,7 +41,7 @@
         ".legal-contact-info a:hover {text-decoration: underline;}"
       ],
       "settings": {
-        "heading": true,
+        "heading": false,
         "container": "container-fluid",
         "padding_top": 80,
         "padding_bottom": 50,
