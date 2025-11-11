@@ -58,29 +58,6 @@
     "header": {
       "type": "header",
       "blocks": {
-        "products_UyxxmL": {
-          "type": "products",
-          "settings": {
-            "heading": "",
-            "product_list": [],
-            "product_heading": "Heading",
-            "product_column_width": "half",
-            "slider_enable": false,
-            "product_column": "5",
-            "product_column_laptop": "4",
-            "card_style": "style_2",
-            "image_ratio": "adapt",
-            "show_secondary_image": true,
-            "show_badges": false,
-            "show_cart_button": true,
-            "show_quick_view_button": false,
-            "show_compare_view_button": false,
-            "show_wishlist_button": false,
-            "show_title": true,
-            "show_price": true,
-            "show_vendor": false
-          }
-        },
         "collection_list_pTYgH7": {
           "type": "collection_list",
           "settings": {
@@ -99,7 +76,6 @@
         }
       },
       "block_order": [
-        "products_UyxxmL",
         "collection_list_pTYgH7"
       ],
       "settings": {
