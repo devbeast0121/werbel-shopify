@@ -62,7 +62,7 @@
           "type": "collection_list",
           "settings": {
             "heading": "Collections",
-            "image_width": "full",
+            "image_width": "four",
             "image_ratio": "square",
             "product_items": false,
             "mega_menu_column_width": "full",
