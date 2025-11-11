@@ -87,7 +87,7 @@
             "heading": "Collections",
             "image_width": "full",
             "image_ratio": "square",
-            "product_items": true,
+            "product_items": false,
             "mega_menu_column_width": "full",
             "collection_1": "active-splitters",
             "collection_2": "directional-couplers",
