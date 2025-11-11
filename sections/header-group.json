@@ -58,68 +58,16 @@
     "header": {
       "type": "header",
       "blocks": {
-        "1220b21f-641e-4d7d-9627-54225ccc0640": {
-          "type": "category_menu",
-          "settings": {
-            "cat_menu_name": "Menu label",
-            "cat_menu_url": "",
-            "icon": "none",
-            "menu": "",
-            "vertical_menu_type": "dropdown",
-            "mega_menu_column": "3",
-            "height": "adapt",
-            "promo1_heading": "",
-            "promo1_text": "",
-            "promo1_link": ""
-          }
-        },
-        "22b4088b-2bf0-4cc2-a5b1-d67e9656f071": {
-          "type": "menu_promo_banner",
-          "settings": {
-            "heading": "Home",
-            "height": "adapt",
-            "promo1_heading": "",
-            "promo1_text": "",
-            "promo1_link": "",
-            "height_2": "adapt",
-            "promo2_heading": "",
-            "promo2_text": "",
-            "promo2_link": ""
-          }
-        },
-        "022cd375-94ee-46e7-8d01-0c6a66d264aa": {
-          "type": "menu_promo_banner",
-          "settings": {
-            "heading": "Shop",
-            "height": "adapt",
-            "promo1_heading": "UP TO 70% OFF",
-            "promo1_text": "<p>Shop Now</p>",
-            "promo1_link": "shopify://collections",
-            "height_2": "adapt",
-            "promo2_heading": "",
-            "promo2_text": "",
-            "promo2_link": ""
-          }
-        },
-        "5bf3ac06-3f1e-42f0-a7a5-3f5196732a31": {
+        "products_UyxxmL": {
           "type": "products",
           "settings": {
-            "heading": "Products",
-            "product_list": [
-              "bkt-1830",
-              "d-2182",
-              "d-2182-n",
-              "d-2185",
-              "d-3182",
-              "d-3182-1",
-              "d-4185-1",
-              "d-4185-1-1"
-            ],
-            "product_heading": "",
-            "product_column_width": "third",
-            "slider_enable": true,
-            "product_column": "2",
-            "product_column_laptop": "2",
+            "heading": "",
+            "product_list": [],
+            "product_heading": "Heading",
+            "product_column_width": "half",
+            "slider_enable": false,
+            "product_column": "5",
+            "product_column_laptop": "4",
             "card_style": "style_2",
             "image_ratio": "adapt",
             "show_secondary_image": true,
@@ -132,13 +80,27 @@
             "show_price": true,
             "show_vendor": false
           }
+        },
+        "collection_list_pTYgH7": {
+          "type": "collection_list",
+          "settings": {
+            "heading": "Collections",
+            "image_width": "full",
+            "image_ratio": "square",
+            "product_items": true,
+            "mega_menu_column_width": "full",
+            "collection_1": "active-splitters",
+            "collection_2": "directional-couplers",
+            "collection_3": "dual-directional-and-multi-channel-couplers",
+            "collection_4": "hybrid-couplers",
+            "collection_5": "microwave-rack-mount-assemblies",
+            "collection_6": "power-splitters-combiners"
+          }
         }
       },
       "block_order": [
-        "1220b21f-641e-4d7d-9627-54225ccc0640",
-        "22b4088b-2bf0-4cc2-a5b1-d67e9656f071",
-        "022cd375-94ee-46e7-8d01-0c6a66d264aa",
-        "5bf3ac06-3f1e-42f0-a7a5-3f5196732a31"
+        "products_UyxxmL",
+        "collection_list_pTYgH7"
       ],
       "settings": {
         "snow_fall": false,
