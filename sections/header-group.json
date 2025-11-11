@@ -102,7 +102,7 @@
         "wishlist_button": true,
         "compare_button": false,
         "search_type": "search_box",
-        "vertical_menu": false,
+        "vertical_menu": true,
         "vertical_button_label": "All Categories",
         "menu_toggle_button_label": "All Categories +",
         "menu_toggle_button_label_2": "Hide Categories -",
