@@ -85,10 +85,10 @@
         "collection_item_PanwUq"
       ],
       "settings": {
-        "container": "container",
+        "container": "container-fluid",
         "collection_type": "all",
         "layout": "standard",
-        "column": "3",
+        "column": "4",
         "product_count": true,
         "image_ratio": "square",
         "color_scheme": "background-1",
