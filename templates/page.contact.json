@@ -49,7 +49,7 @@
           "settings": {
             "heading": "Phone",
             "icon": "phone",
-            "text": "<p> <strong> (372) 587-2335 </strong> <br/> (372) 555-4665</p>"
+            "text": "<p>General Inquiries: (973) 515-3001<br/>Sales: (973) 280-0825<br/>Sales: (973) 515-3004</p>"
           }
         },
         "9616bdd2-2e00-4c58-93cc-b62f5a399c5f": {
@@ -57,7 +57,7 @@
           "settings": {
             "heading": "Email",
             "icon": "email",
-            "text": "<p><strong> example@gmail.com</strong><br/> demoo@gmail.com</p>"
+            "text": "<p>sales@werbelmicrowave.com<br/>support@werbelmicrowave.com</p>"
           }
         },
         "2fbb877d-d7b6-4bc6-b148-36e1c70cb0b7": {
@@ -65,7 +65,7 @@
           "settings": {
             "heading": "Address",
             "icon": "address",
-            "text": "<p>125 MOUNT STREET<br/>LONDON<br/>W1K 3NS</p>"
+            "text": "<p>628 State Route 10<br/>Suite 14<br/>Whippany, New Jersey, 07981</p>"
           }
         },
         "1661515112c1890be1-1": {
@@ -116,7 +116,7 @@
         "ef727e9f-c2d9-4efa-bcb6-41be6c2528d3": {
           "type": "text",
           "settings": {
-            "text": "<p>South Street road,<br/>84457 Powlowski Stream Suite 332</p>"
+            "text": "<p>628 State Route 10<br/>Suite 14<br/>Whippany, New Jersey, 07981</p>"
           }
         },
         "284aea1d-f396-4b91-bfdd-d89c4a0f4d4a": {
