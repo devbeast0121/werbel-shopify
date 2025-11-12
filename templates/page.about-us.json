@@ -24,7 +24,7 @@
         "mobile_padding_top": 40,
         "mobile_padding_bottom": 40,
         "color_scheme": "inverse",
-        "custom_colors": true,
+        "custom_colors": false,
         "foreground": "#121212",
         "background": "#e1e5e8"
       }
