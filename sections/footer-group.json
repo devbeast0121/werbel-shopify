@@ -62,7 +62,7 @@
       "settings": {
         "snow_fall": false,
         "container": "container-fluid",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "column": "4",
         "powered_by": "<p>Powered by <a href=\"https://help.risingtheme.com/\" target=\"_blank\" title=\"https://help.risingtheme.com/\">HookThemes </a></p>",
         "enable_follow_on_shop": true,

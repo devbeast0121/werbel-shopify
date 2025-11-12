@@ -13,7 +13,8 @@
       "type": "breadcrumbs",
       "settings": {
         "container": "container-fluid",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/about2.png",
+        "image_overlay_opacity": 70,
         "show_page_title": true,
         "heading_size": "h1",
         "show_breadcrumb_navigation": true,
@@ -22,7 +23,7 @@
         "padding_bottom": 50,
         "mobile_padding_top": 50,
         "mobile_padding_bottom": 50,
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "custom_colors": false,
         "foreground": "#121212",
         "background": "#f7f8fc"
