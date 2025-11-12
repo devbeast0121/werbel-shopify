@@ -32,9 +32,9 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "container": "container",
+        "container": "container-fluid",
         "full_width": false,
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_transfrom": "uppercase",
         "show_breadcrumbs": true,
         "show_collection_description": true,
@@ -132,7 +132,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "container": "container",
+        "container": "container-fluid",
         "products_per_page": 9,
         "product_column": "3",
         "product_column_on_mobile": false,
@@ -174,7 +174,7 @@
     "b1f2e3dd-5b68-4216-814f-6c62bbeef0e6": {
       "type": "featured-collection",
       "settings": {
-        "container": "container",
+        "container": "container-fluid",
         "subtitle": "",
         "heading": "You may also like",
         "heading_position": "bottom",
