@@ -16,13 +16,21 @@
       "blocks": {
         "0023984e-906b-47ad-ad7a-af594238863e": {
           "type": "about_us",
+          "disabled": true,
           "settings": {
-            "heading": "About us",
+            "heading": "",
             "about_information": "<p>The exciting contemporary brand Suruchi is known for its attention to detail and premium graphics.</p>",
             "social_media": true
           }
         },
         "6c12f5ad-1f2b-4d5d-a59e-5931a27ed7cc": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Products",
+            "menu": "collection-menu"
+          }
+        },
+        "link_list_nMbPX6": {
           "type": "link_list",
           "settings": {
             "heading": "About US",
@@ -47,6 +55,7 @@
       "block_order": [
         "0023984e-906b-47ad-ad7a-af594238863e",
         "6c12f5ad-1f2b-4d5d-a59e-5931a27ed7cc",
+        "link_list_nMbPX6",
         "3d7e2d8c-1b8e-4e2d-be90-97680e4c4ac5",
         "ca40fd6b-fe3b-4f24-94a9-90f4dd0a84de"
       ],
