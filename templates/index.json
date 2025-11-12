@@ -1058,7 +1058,7 @@
           "settings": {
             "heading": "Email",
             "icon": "email",
-            "text": "<p><strong>example@gmail.com</strong><br/>demoo@gmail.com</p>"
+            "text": "<p>sales@werbelmicrowave.com<br/>support@werbelmicrowave.com</p>"
           }
         },
         "d276508c-95bb-4afc-8c7f-7d91db84af4f": {
@@ -1066,7 +1066,7 @@
           "settings": {
             "heading": "Phone",
             "icon": "phone",
-            "text": "<p> <strong> (372) 587-2335 </strong> <br/> (372) 555-4665</p>"
+            "text": "<p>General Inquiries: (973) 515-3001<br/>Sales: (973) 280-0825<br/>Sales: (973) 515-3004</p>"
           }
         },
         "1c47aabd-faaf-489d-a8b5-d73dd9c2c494": {
@@ -1074,7 +1074,7 @@
           "settings": {
             "heading": "Address",
             "icon": "address",
-            "text": "<p>125 MOUNT STREET<br/>LONDON<br/>W1K 3NS</p>"
+            "text": "<p>628 State Route 10<br/>Suite 14<br/>Whippany, New Jersey, 07981</p>"
           }
         },
         "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-scoial_media-1": {
