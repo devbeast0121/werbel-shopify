@@ -29,6 +29,129 @@
         "background": "#e1e5e8"
       }
     },
+    "rich_text_f7BAei": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BTy86U": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Excellence in Every Product<br/></p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_krDd9P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our core principle is to provide quality products with consistent performance with high reliability. Keeping a lean manufacturing environment using automated processes offer the best quality and delivery in the industry.<br/><br/></p>",
+            "text_size": "large",
+            "text_color": "body"
+          }
+        },
+        "button_im7AmU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BTy86U",
+        "text_krDd9P",
+        "button_im7AmU"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "multicolumn_8VeU6R": {
+      "type": "multicolumn",
+      "blocks": {
+        "image_block_JDF4fy": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/usa_b9a0debc-7bb1-4d05-a7e8-11187aa0352f.svg",
+            "title": "Made in The USA",
+            "text": "<ul><li>Assembled and tested in USA</li><li>Maintain stock of common materials</li><li>Typical production time: 6-8 weeks if not in stock</li></ul>",
+            "link_label": "",
+            "link": "",
+            "button_type": "icon",
+            "button_size": "small"
+          }
+        },
+        "image_block_8LhiRK": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/House-Prototyping_6e35e253-874b-4378-82cc-5b384607a00c.svg",
+            "title": "In House Prototyping",
+            "text": "<ul><li>Uninhibited support of product life cycle</li><li>Comprehensive testing protocols</li><li>Custom requirements</li><li>Innovative, talented team</li></ul>",
+            "link_label": "",
+            "link": "",
+            "button_type": "icon",
+            "button_size": "small"
+          }
+        },
+        "image_block_9XdcKV": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/warranty-2_37e33911-36ad-479d-98cb-4cafaee6839d.svg",
+            "title": "Quality Control",
+            "text": "<ul><li>Certified ISO 9001:2015 system</li><li>Hand-assembly</li><li>Repetitive operations are automated</li><li>100% test and inspection</li><li>One year warranty on all products</li></ul>",
+            "link_label": "",
+            "link": "",
+            "button_type": "icon",
+            "button_size": "small"
+          }
+        },
+        "image_block_J3aQiY": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/icon-person.webp",
+            "title": "Personalized Service",
+            "text": "<ul><li>Direct access to staff and president</li><li>NO chat bots. NO phone menus</li><li>NO call centers</li><li>Office staff receives technical training</li><li>Always a live person</li></ul>",
+            "link_label": "",
+            "link": "",
+            "button_type": "icon",
+            "button_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "image_block_JDF4fy",
+        "image_block_8LhiRK",
+        "image_block_9XdcKV",
+        "image_block_J3aQiY"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "container": "container-fluid",
+        "title": "",
+        "heading_size": "h1",
+        "heading_align": "center",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
     "c2ccf461-6b5d-48be-9b98-3669d96667c4": {
       "type": "welcome-video",
       "blocks": {
@@ -572,89 +695,12 @@
         "mobile_padding_bottom": 65,
         "color_scheme": "background-1"
       }
-    },
-    "multicolumn_8VeU6R": {
-      "type": "multicolumn",
-      "blocks": {
-        "image_block_JDF4fy": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/usa_b9a0debc-7bb1-4d05-a7e8-11187aa0352f.svg",
-            "title": "Made in The USA",
-            "text": "<ul><li>Assembled and tested in USA</li><li>Maintain stock of common materials</li><li>Typical production time: 6-8 weeks if not in stock</li></ul>",
-            "link_label": "",
-            "link": "",
-            "button_type": "icon",
-            "button_size": "small"
-          }
-        },
-        "image_block_8LhiRK": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/House-Prototyping_6e35e253-874b-4378-82cc-5b384607a00c.svg",
-            "title": "In House Prototyping",
-            "text": "<ul><li>Uninhibited support of product life cycle</li><li>Comprehensive testing protocols</li><li>Custom requirements</li><li>Innovative, talented team</li></ul>",
-            "link_label": "",
-            "link": "",
-            "button_type": "icon",
-            "button_size": "small"
-          }
-        },
-        "image_block_9XdcKV": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/warranty-2_37e33911-36ad-479d-98cb-4cafaee6839d.svg",
-            "title": "Quality Control",
-            "text": "<ul><li>Certified ISO 9001:2015 system</li><li>Hand-assembly</li><li>Repetitive operations are automated</li><li>100% test and inspection</li><li>One year warranty on all products</li></ul>",
-            "link_label": "",
-            "link": "",
-            "button_type": "icon",
-            "button_size": "small"
-          }
-        },
-        "image_block_J3aQiY": {
-          "type": "image_block",
-          "settings": {
-            "image": "shopify://shop_images/icon-person.webp",
-            "title": "Personalized Service",
-            "text": "<ul><li>Direct access to staff and president</li><li>NO chat bots. NO phone menus</li><li>NO call centers</li><li>Office staff receives technical training</li><li>Always a live person</li></ul>",
-            "link_label": "",
-            "link": "",
-            "button_type": "icon",
-            "button_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "image_block_JDF4fy",
-        "image_block_8LhiRK",
-        "image_block_9XdcKV",
-        "image_block_J3aQiY"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "container": "container-fluid",
-        "title": "Excellence in Every Product",
-        "heading_size": "h1",
-        "heading_align": "center",
-        "image_width": "third",
-        "image_ratio": "circle",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "mobile_padding_top": 0,
-        "mobile_padding_bottom": 0
-      }
     }
   },
   "order": [
     "breadcrumbs",
+    "rich_text_f7BAei",
+    "multicolumn_8VeU6R",
     "c2ccf461-6b5d-48be-9b98-3669d96667c4",
     "fa14ea68-dd32-4584-8974-44db5422310d",
     "welcome_video_qNRdQa",
@@ -662,7 +708,6 @@
     "5a6437d2-d7e9-46cb-a8c5-257c63ea24d9",
     "43e7f420-9eb8-4fd1-b45b-9a62a34a1ef9",
     "96d4f826-f309-4ac1-98fa-31acbac8da6b",
-    "featured_promotion_WY4znV",
-    "multicolumn_8VeU6R"
+    "featured_promotion_WY4znV"
   ]
 }
