@@ -121,6 +121,9 @@
         "image_block_9XdcKV",
         "image_block_J3aQiY"
       ],
+      "custom_css": [
+        ".multicolumn.background-primary .multicolumn-card {height: -webkit-fill-available;}"
+      ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "container": "container-fluid",
@@ -128,7 +131,7 @@
         "heading_size": "h1",
         "heading_align": "center",
         "image_width": "third",
-        "image_ratio": "circle",
+        "image_ratio": "square",
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
@@ -140,6 +143,57 @@
         "padding_bottom": 0,
         "mobile_padding_top": 0,
         "mobile_padding_bottom": 0
+      }
+    },
+    "5a6437d2-d7e9-46cb-a8c5-257c63ea24d9": {
+      "type": "counter-up",
+      "blocks": {
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-0": {
+          "type": "couterup",
+          "settings": {
+            "heading": "Happy clients",
+            "number": "600"
+          }
+        },
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-1": {
+          "type": "couterup",
+          "settings": {
+            "heading": "Total Products",
+            "number": "1000"
+          }
+        },
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-2": {
+          "type": "couterup",
+          "settings": {
+            "heading": "Team Members",
+            "number": "50"
+          }
+        },
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-3": {
+          "type": "couterup",
+          "settings": {
+            "heading": "Monthly Orders",
+            "number": "200"
+          }
+        }
+      },
+      "block_order": [
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-0",
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-1",
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-2",
+        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-3"
+      ],
+      "settings": {
+        "container": "container",
+        "image_overlay_opacity": 30,
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 35,
+        "color_scheme": "background-1",
+        "custom_colors": false,
+        "foreground": "#ffffff",
+        "background": "#f7f8fc"
       }
     },
     "c2ccf461-6b5d-48be-9b98-3669d96667c4": {
@@ -368,57 +422,6 @@
         "padding_bottom": 0,
         "mobile_padding_top": 60,
         "mobile_padding_bottom": 0
-      }
-    },
-    "5a6437d2-d7e9-46cb-a8c5-257c63ea24d9": {
-      "type": "counter-up",
-      "blocks": {
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-0": {
-          "type": "couterup",
-          "settings": {
-            "heading": "Happy clients",
-            "number": "600"
-          }
-        },
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-1": {
-          "type": "couterup",
-          "settings": {
-            "heading": "Total Products",
-            "number": "1000"
-          }
-        },
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-2": {
-          "type": "couterup",
-          "settings": {
-            "heading": "Team Members",
-            "number": "50"
-          }
-        },
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-3": {
-          "type": "couterup",
-          "settings": {
-            "heading": "Monthly Orders",
-            "number": "200"
-          }
-        }
-      },
-      "block_order": [
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-0",
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-1",
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-2",
-        "template--14633138651249__5a6437d2-d7e9-46cb-a8c5-257c63ea24d9-168970469115234a51-3"
-      ],
-      "settings": {
-        "container": "container",
-        "image_overlay_opacity": 30,
-        "padding_top": 90,
-        "padding_bottom": 90,
-        "mobile_padding_top": 65,
-        "mobile_padding_bottom": 35,
-        "color_scheme": "background-1",
-        "custom_colors": false,
-        "foreground": "#ffffff",
-        "background": "#f7f8fc"
       }
     },
     "43e7f420-9eb8-4fd1-b45b-9a62a34a1ef9": {
