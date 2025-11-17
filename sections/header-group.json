@@ -90,7 +90,7 @@
         "header_sticky": true,
         "sticky_color_background": "#f7f8fc",
         "sticky_text_color": "#121212",
-        "transparent_header": false,
+        "transparent_header": true,
         "logo_2": "shopify://shop_images/logo_white.svg",
         "transparent_color_foreground": "#f7f8fc",
         "transparent_color_background": "#ffffff",
