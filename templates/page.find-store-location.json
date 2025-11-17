@@ -16,7 +16,7 @@
         "image_overlay_opacity": 0,
         "show_page_title": true,
         "heading_size": "h1",
-        "show_breadcrumb_navigation": true,
+        "show_breadcrumb_navigation": false,
         "text_center": "center",
         "padding_top": 50,
         "padding_bottom": 50,

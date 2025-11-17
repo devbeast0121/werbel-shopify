@@ -14,7 +14,7 @@
       "settings": {
         "show_page_title": false,
         "heading_size": "h1",
-        "show_breadcrumb_navigation": true,
+        "show_breadcrumb_navigation": false,
         "text_center": "center",
         "padding_top": 50,
         "padding_bottom": 50,
