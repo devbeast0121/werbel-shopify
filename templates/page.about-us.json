@@ -72,6 +72,8 @@
       ],
       "settings": {
         "container": "container",
+        "image": "shopify://shop_images/WMRD10-7.2-S-768x768_83f4d871-bba5-4ed4-8a07-574c5be5b051.png",
+        "image_2": "shopify://shop_images/WMHPDDC-80-1000M-40dB-N-1-768x768_ad72b5f9-e897-4e07-bc0f-a6c1c394ba90.png",
         "height": "adapt",
         "image_layout": "text_first",
         "video_url": "https://youtu.be/EErGoOK7LnA",
