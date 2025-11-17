@@ -27,7 +27,7 @@
   endif
 
   assign transparent_header = false
-  if section.settings.transparent_header
+  if section.settings.transparent_header and request.page_type == 'index'
     assign transparent_header = true
     assign color_enable = section.settings.transparent_header
   endif
