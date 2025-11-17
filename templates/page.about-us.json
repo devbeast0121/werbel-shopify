@@ -35,34 +35,46 @@
         "template--14633138651249__c2ccf461-6b5d-48be-9b98-3669d96667c4-16897046371be201d7-0": {
           "type": "heading",
           "settings": {
-            "heading": "Story About Us",
+            "heading": "PCB Production and Reflow Oven",
             "heading_size": "h2"
           }
         },
         "template--14633138651249__c2ccf461-6b5d-48be-9b98-3669d96667c4-16897046371be201d7-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Demonstration of our pick and place machine and reflow oven. Consistently places SMD resistors for mass production of Wilkinson splitters and other devices. We can process hundreds of PC boards like the one shown in this video daily at our Whippany, New Jersey facility.<br/><br/>We offer this as a service and can help with all part of the process including procurement and kitting. Alternatively, \"bring your own parts\" and let our equipment work for you!<br/><br/>Contact us today and let us help on your next project.</p>"
           }
         },
         "e6625072-257c-44cf-830c-548e6671980b": {
           "type": "signature",
+          "disabled": true,
           "settings": {
             "heading": "Alex Turner",
             "subheading": "Founder"
+          }
+        },
+        "button_FH68jN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact US",
+            "button_icon": false,
+            "button_link": "shopify://pages/contact",
+            "button_style": "primary",
+            "button_size": "small"
           }
         }
       },
       "block_order": [
         "template--14633138651249__c2ccf461-6b5d-48be-9b98-3669d96667c4-16897046371be201d7-0",
         "template--14633138651249__c2ccf461-6b5d-48be-9b98-3669d96667c4-16897046371be201d7-2",
-        "e6625072-257c-44cf-830c-548e6671980b"
+        "e6625072-257c-44cf-830c-548e6671980b",
+        "button_FH68jN"
       ],
       "settings": {
         "container": "container",
         "height": "adapt",
         "image_layout": "text_first",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_url": "https://youtu.be/EErGoOK7LnA",
         "padding_top": 90,
         "padding_bottom": 90,
         "mobile_padding_top": 60,
