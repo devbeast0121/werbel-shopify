@@ -122,7 +122,8 @@
         "image_block_J3aQiY"
       ],
       "custom_css": [
-        ".multicolumn.background-primary .multicolumn-card {height: -webkit-fill-available;}"
+        ".multicolumn.background-primary .multicolumn-card {height: -webkit-fill-available;}",
+        ".multicolumn-card__image {object-fit: contain}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
