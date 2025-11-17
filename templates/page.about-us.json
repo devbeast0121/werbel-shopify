@@ -46,21 +46,11 @@
             "text_size": "large",
             "text_color": "body"
           }
-        },
-        "button_im7AmU": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style": "primary",
-            "button_size": "large"
-          }
         }
       },
       "block_order": [
         "heading_BTy86U",
-        "text_krDd9P",
-        "button_im7AmU"
+        "text_krDd9P"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -68,9 +58,9 @@
         "mobile_alignment": "center",
         "color_scheme": "",
         "padding_top": 50,
-        "padding_bottom": 50,
+        "padding_bottom": 0,
         "mobile_padding_top": 50,
-        "mobile_padding_bottom": 50
+        "mobile_padding_bottom": 0
       }
     },
     "multicolumn_8VeU6R": {
@@ -142,7 +132,7 @@
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "2",
