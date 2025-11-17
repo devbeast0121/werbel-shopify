@@ -83,6 +83,180 @@
         "mobile_padding_bottom": 60
       }
     },
+    "fa14ea68-dd32-4584-8974-44db5422310d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "LPKF Protolaser",
+            "heading_size": "h1"
+          }
+        },
+        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our in-house PCB prototyping capability allows us to rapidly develop new designs and meet urgent customer needs. Laser-cut PCB traces are far more accurate than chemical etching. Additionally, the perfectly straight lines enhance RF performance. This is crucial with coupler and filter networks as we push higher in frequency.<br/><br/>We maintain stock of commonly used RF materials, so we are in position to respond quickly to expedite requests from customers.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Explore More",
+            "button_icon": true,
+            "button_link": "shopify://collections/all",
+            "button_style": "primary",
+            "button_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-heading-1",
+        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-text-1",
+        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-button-1"
+      ],
+      "settings": {
+        "container": "container",
+        "image": "shopify://shop_images/lpkf.jpg",
+        "transparent_media": false,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "card_content_padding": "none",
+        "full_width": false,
+        "round_corner": false,
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 90,
+        "padding_bottom": 0,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "welcome_video_qNRdQa": {
+      "type": "welcome-video",
+      "blocks": {
+        "heading_MHQiCt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pick and Place Machine",
+            "heading_size": "h2"
+          }
+        },
+        "text_UByGgf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pick and place machine running a 16-way splitter board that was too large to fit on the rails… but that did not stop us from getting the work done! See the machine in action at full speed! This is our electronics assembly facility in Whippany New Jersey USA. Werbel Microwave can offer this service. Let our machine do the work for you</p>"
+          }
+        },
+        "signature_TKtHdG": {
+          "type": "signature",
+          "disabled": true,
+          "settings": {
+            "heading": "Alex Turner",
+            "subheading": "Founder"
+          }
+        },
+        "button_ayVE4q": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Contact US",
+            "button_icon": false,
+            "button_link": "shopify://pages/contact",
+            "button_style": "primary",
+            "button_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MHQiCt",
+        "text_UByGgf",
+        "signature_TKtHdG",
+        "button_ayVE4q"
+      ],
+      "settings": {
+        "container": "container",
+        "image": "shopify://shop_images/WM4PD-0.7-4-B-768x768_cda602f1-6d86-416d-a6df-5ca3bcb2c231.png",
+        "image_2": "shopify://shop_images/WMC-6-18-30dB-S-768x768_ee166c36-58b7-420c-9854-749af5f30b24.png",
+        "height": "adapt",
+        "image_layout": "text_first",
+        "video_url": "https://youtu.be/EKCIfmXtMx8",
+        "padding_top": 90,
+        "padding_bottom": 90,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 60
+      }
+    },
+    "image_with_text_T4RXaE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RtRaCL": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Message to Our Customers",
+            "heading_size": "h1"
+          }
+        },
+        "text_bXJQfc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I am most grateful for the trust you have placed in Werbel Microwave for supporting your projects.<br/><br/>Since 2014 we have been realizing the dream of bringing high technology, electronics manufacturing back to the United States.<br/><br/>Our commitment is to quality, excellence in workmanship, quick delivery and long term reliability of our products.<br/><br/>Building on technical and design experience since 2004, I have personally designed most of the products offered. Whether it is a Werbel branded product or a custom or OEM product. This allows us to support the product while avoiding obsolescence and supply issues.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_7YgpH3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Explore More",
+            "button_icon": true,
+            "button_link": "shopify://collections/all",
+            "button_style": "primary",
+            "button_size": "small"
+          }
+        },
+        "caption_Pf4ed8": {
+          "type": "caption",
+          "settings": {
+            "caption": "Eliezer Werbel - President, Engineer, Founder",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RtRaCL",
+        "text_bXJQfc",
+        "button_7YgpH3",
+        "caption_Pf4ed8"
+      ],
+      "settings": {
+        "container": "container",
+        "image": "shopify://shop_images/etwerbel_email.webp",
+        "transparent_media": false,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "card_content_padding": "none",
+        "full_width": false,
+        "round_corner": false,
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 90,
+        "padding_bottom": 0,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 0
+      }
+    },
     "5a6437d2-d7e9-46cb-a8c5-257c63ea24d9": {
       "type": "counter-up",
       "blocks": {
@@ -132,59 +306,6 @@
         "custom_colors": false,
         "foreground": "#ffffff",
         "background": "#f7f8fc"
-      }
-    },
-    "fa14ea68-dd32-4584-8974-44db5422310d": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Best Product",
-            "heading_size": "h1"
-          }
-        },
-        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Customer feedback is highly valued at Company XYZ. The company actively listens to its customers, taking note of their suggestions and needs. This customer-centric approach allows the company to continually improve its products, ensuring they remain relevant and meet the evolving demands of the market.</p>",
-            "text_style": "body"
-          }
-        },
-        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Explore More",
-            "button_icon": true,
-            "button_link": "shopify://collections/all",
-            "button_style": "primary",
-            "button_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-heading-1",
-        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-text-1",
-        "template--14633138651249__fa14ea68-dd32-4584-8974-44db5422310d-button-1"
-      ],
-      "settings": {
-        "container": "container",
-        "transparent_media": false,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "card_content_padding": "none",
-        "full_width": false,
-        "round_corner": false,
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 90,
-        "padding_bottom": 0,
-        "mobile_padding_top": 60,
-        "mobile_padding_bottom": 0
       }
     },
     "43e7f420-9eb8-4fd1-b45b-9a62a34a1ef9": {
@@ -342,6 +463,7 @@
         "template--14633138651249__96d4f826-f309-4ac1-98fa-31acbac8da6b-testimonial-4",
         "template--14633138651249__96d4f826-f309-4ac1-98fa-31acbac8da6b-testimonial-5"
       ],
+      "disabled": true,
       "settings": {
         "container": "container",
         "show_offset": true,
@@ -387,29 +509,33 @@
         "template--14633138651249__9e1c617c-9bf1-4b11-bea8-6bbaed5c448a-featured_promotion-1": {
           "type": "featured_promotion",
           "settings": {
-            "heading": "Free Shipping",
-            "subheading": "Free Shipping for orders over $100",
-            "icon": "truck"
+            "heading": "We Design Our Own Products",
+            "subheading": "We have expanded in-house engineering capabilities to support and maintain product design with minimal end-of-life risk.",
+            "icon": "truck",
+            "feature_image_icon": "shopify://shop_images/we_design.png"
           }
         },
         "template--14633138651249__9e1c617c-9bf1-4b11-bea8-6bbaed5c448a-featured_promotion-2": {
           "type": "featured_promotion",
           "settings": {
-            "heading": "Free Returns",
-            "subheading": "Within 30 days for an Returns.",
-            "icon": "return"
+            "heading": "OEM and Private Label",
+            "subheading": "We have the capacity to process large orders to support OEM and private label needs.",
+            "icon": "return",
+            "feature_image_icon": "shopify://shop_images/oem.webp"
           }
         },
         "template--14633138651249__9e1c617c-9bf1-4b11-bea8-6bbaed5c448a-featured_promotion-3": {
           "type": "featured_promotion",
           "settings": {
-            "heading": "Secure Payment",
-            "subheading": "Within 30 days for an exchange.",
-            "icon": "payment"
+            "heading": "Quick Turn-Around",
+            "subheading": "Online store orders ship immediately from stock. Larger back orders typically ship within 6 weeks.",
+            "icon": "payment",
+            "feature_image_icon": "shopify://shop_images/quick.webp"
           }
         },
         "04d9bb2b-aa9f-4c50-abd0-9825c9cbd6d5": {
           "type": "featured_promotion",
+          "disabled": true,
           "settings": {
             "heading": "Online Support",
             "subheading": "24 hours a day, 7 days a week",
@@ -425,18 +551,18 @@
       ],
       "settings": {
         "container": "container",
-        "subtitle": "",
-        "heading": "",
-        "heading_position": "bottom",
+        "subtitle": "<strong>End to End Product Solutions</strong>",
+        "heading": "Comprehensive Solutions: Design, Manufacture, Deliver",
+        "heading_position": "top",
         "text_center": "center",
         "border_line": true,
-        "desktop_column": "4",
+        "desktop_column": "3",
         "laptop_column": "3",
         "mobile_column": "1",
-        "heading_size": "h5",
+        "heading_size": "h3",
         "card_solid_button_icon": false,
-        "icon_position": "left",
-        "alignment": "left",
+        "icon_position": "top",
+        "alignment": "center",
         "card_padding": "none",
         "feature_card_radius": false,
         "card_color_scheme": "background-1",
@@ -451,8 +577,10 @@
   "order": [
     "breadcrumbs",
     "c2ccf461-6b5d-48be-9b98-3669d96667c4",
-    "5a6437d2-d7e9-46cb-a8c5-257c63ea24d9",
     "fa14ea68-dd32-4584-8974-44db5422310d",
+    "welcome_video_qNRdQa",
+    "image_with_text_T4RXaE",
+    "5a6437d2-d7e9-46cb-a8c5-257c63ea24d9",
     "43e7f420-9eb8-4fd1-b45b-9a62a34a1ef9",
     "96d4f826-f309-4ac1-98fa-31acbac8da6b",
     "9e1c617c-9bf1-4b11-bea8-6bbaed5c448a"
