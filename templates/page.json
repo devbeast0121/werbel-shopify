@@ -29,53 +29,8 @@
         "background": "#f7f8fc"
       }
     },
-    "rich_text_FWQbfF": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KKBqAB": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand</p>",
-            "heading_size": "h3"
-          }
-        },
-        "text_7Y4qbr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "text_size": "small",
-            "text_color": "body"
-          }
-        },
-        "button_kUqbcK": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style": "primary",
-            "button_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KKBqAB",
-        "text_7Y4qbr",
-        "button_kUqbcK"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "alignment": "center",
-        "mobile_alignment": "center",
-        "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "mobile_padding_top": 50,
-        "mobile_padding_bottom": 50
-      }
-    },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "custom_css": [
         ".legal-content-body h2 {border-bottom: 2px solid #e9ecef;}",
         ".legal-contact-info {background: #f8f9fa; border: 2px solid gray; border-radius: 15px; padding: 2rem; margin-top: 4rem;}",
@@ -99,7 +54,6 @@
   },
   "order": [
     "breadcrumbs",
-    "rich_text_FWQbfF",
     "main"
   ]
 }
