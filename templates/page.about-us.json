@@ -123,7 +123,7 @@
       ],
       "custom_css": [
         ".multicolumn.background-primary .multicolumn-card {height: -webkit-fill-available;}",
-        ".multicolumn-card__image {object-fit: contain}"
+        ".multicolumn-card__image {object-fit: contain;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -667,6 +667,7 @@
         "featured_promotion_fPNUm9",
         "featured_promotion_GtrDTg"
       ],
+      "disabled": true,
       "settings": {
         "container": "container",
         "subtitle": "<strong>End to End Product Solutions</strong>",
