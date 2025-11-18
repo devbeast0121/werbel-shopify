@@ -13,7 +13,7 @@
       "type": "breadcrumbs",
       "settings": {
         "container": "container-fluid",
-        "image": "shopify://shop_images/about2.png",
+        "image": "shopify://shop_images/about1.png",
         "image_overlay_opacity": 70,
         "show_page_title": true,
         "heading_size": "h1",
@@ -28,32 +28,9 @@
         "foreground": "#121212",
         "background": "#f7f8fc"
       }
-    },
-    "main": {
-      "type": "main-page",
-      "custom_css": [
-        ".legal-content-body h2 {border-bottom: 2px solid #e9ecef;}",
-        ".legal-contact-info {background: #f8f9fa; border: 2px solid gray; border-radius: 15px; padding: 2rem; margin-top: 4rem;}",
-        ".legal-contact-info h3 {margin-bottom: 1rem; font-size: 1.5rem;}",
-        ".legal-contact-info p {margin-bottom: 1.5rem;}",
-        ".legal-contact-info ul {list-style: none; padding: 0; margin: 0;}",
-        ".legal-contact-info li {margin-bottom: 0.75rem;}",
-        ".legal-contact-info a {color: gray; text-decoration: none;}",
-        ".legal-contact-info a:hover {text-decoration: underline;}"
-      ],
-      "settings": {
-        "heading": false,
-        "container": "container-fluid",
-        "padding_top": 80,
-        "padding_bottom": 50,
-        "mobile_padding_top": 60,
-        "mobile_padding_bottom": 45,
-        "color_scheme": "background-1"
-      }
     }
   },
   "order": [
     "breadcrumbs",
-    "main"
   ]
 }
