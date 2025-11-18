@@ -179,7 +179,7 @@
             "subheading": "Sound Sharing",
             "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
             "button_label": "Shop Now",
-            "button_icon": true,
+            "button_icon": false,
             "button_link": "shopify://collections",
             "button_style": "primary",
             "button_size": "small",
