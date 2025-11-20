@@ -195,6 +195,10 @@
           "label": "YouTube",
           "info": "https://www.youtube.com/shopify"
         },
+        "social_linkedin_link": {
+          "label": "Linkedin",
+          "info": "https://www.linkedin.com/company/werbel-microwave-llc"
+        },
         "social_vimeo_link": {
           "label": "Vimeo",
           "info": "https://vimeo.com/shopify"

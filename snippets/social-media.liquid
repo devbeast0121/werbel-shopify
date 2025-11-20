@@ -55,6 +55,13 @@
   </a>
   {%- endif -%}
 
+  {%- if settings.social_linkedin_link != blank -%}
+    <a href="{{ settings.social_linkedin_link }}" class="link link--text list-social__link" aria-describedby="a11y-external-message">
+      {%- render 'icon-linkedin' -%}
+      <span class="visually-hidden">{{ 'general.social.links.linkedin' | t }}</span>
+    </a>
+    {%- endif -%}
+
   {%- if settings.social_vimeo_link != blank -%}
   <a href="{{ settings.social_vimeo_link }}" class="link link--text list-social__link" aria-describedby="a11y-external-message">
     {%- render 'icon-vimeo' -%}
