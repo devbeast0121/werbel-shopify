@@ -56,9 +56,9 @@
         "contact_list_fbNg3F": {
           "type": "contact_list",
           "settings": {
-            "heading": "Phone",
+            "heading": "",
             "icon": "phone",
-            "text": "<p>General Inquiries: (973) 515-3001<br/>Sales: (973) 280-0825</p>"
+            "text": "<p>Sales: (973) 280-0825</p>"
           }
         },
         "9616bdd2-2e00-4c58-93cc-b62f5a399c5f": {
