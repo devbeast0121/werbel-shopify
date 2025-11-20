@@ -1061,6 +1061,14 @@
             "text": "<p>sales@werbelmicrowave.com</p>"
           }
         },
+        "contact_list_WL9UTr": {
+          "type": "contact_list",
+          "settings": {
+            "heading": "",
+            "icon": "email",
+            "text": "<p>customerservice@werbelmicrowave.com</p>"
+          }
+        },
         "d276508c-95bb-4afc-8c7f-7d91db84af4f": {
           "type": "contact_list",
           "settings": {
@@ -1094,6 +1102,7 @@
       },
       "block_order": [
         "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-contact_list-1",
+        "contact_list_WL9UTr",
         "d276508c-95bb-4afc-8c7f-7d91db84af4f",
         "contact_list_bDXeGM",
         "1c47aabd-faaf-489d-a8b5-d73dd9c2c494",
