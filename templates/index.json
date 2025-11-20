@@ -745,36 +745,36 @@
         "template--21698843869483__936101a9-deab-483d-9d04-c9b187840105-accordion-1": {
           "type": "accordion",
           "settings": {
-            "heading": "1. What are headphones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
+            "heading": "1. What is a coupler and what is a typical use case?",
+            "content": "<p>A coupler is a device that samples an RF signal and replicates it at a lesser power level.  The ratio of power sampling is expressed in decibels (dB) and is relative power value compared to the injected signal.  Available values typically range from 6 to 50 dB.  A typical use case is to monitor signals without interruption to a system.  The coupler may be permanently installed in the main signal path and its tap port connected to test equipment during diagnostics.</p>"
           }
         },
         "template--21698843869483__936101a9-deab-483d-9d04-c9b187840105-accordion-2": {
           "type": "accordion",
           "settings": {
-            "heading": "2. What are the different types of headphones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
+            "heading": "2. What is the difference between a standard Wilkinson splitter/divider and a resistive splitter/divider?",
+            "content": "<p>The Wilkinson splitter was invented in 1960 by Ernest Wilkinson and formed the basis of high frequency splitter design still used to this day.  Its advantages are low loss and high isolation within a limited bandwidth.  With proper design, it can handle high levels of power, to hundreds of watts.  The resistive splitter, often in a tee or star configuration, offers theoretically infinite bandwidth, at the expense of high signal loss and poor isolation.  It cannot handle high power because of the star topology, and is only suited for splitting or combining small signals (typically 0.1 watts or less).</p>"
           }
         },
         "d3439abd-0566-4272-becd-5cbf37d2b05a": {
           "type": "accordion",
           "settings": {
-            "heading": "3. What's the difference between open-back and closed-back headphones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
+            "heading": "3. What is the difference between narrowband, wideband, and ultrawideband devices?",
+            "content": "<p>The bandwidth refers to the operating frequency range of the device.  Narrowband often refers to an octave or less.  Wideband typically means several octaves, and ultrawideband can be 10 or more octaves.  This is not a hard rule, and there are tradeoffs of performance vs bandwidth.  Typical performance is near-ideal within a narrowband, excellent wideband, and good ultrawideband.</p>"
           }
         },
         "86133c53-f82f-451f-b068-11ce55301767": {
           "type": "accordion",
           "settings": {
-            "heading": "4. Are wireless headphones better than wired ones?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
+            "heading": "4. What is the difference between splitting and combining signals?",
+            "content": "<p>At small signals (typically under 0.1 watt but always consult the datasheet), splitters may be used in reverse direction for combining signals.  At higher power levels, care must be considered to the internal design and structure of the combiner.  A splitter that was not designed to combine high power signals is subject to damage at high power when used in reverse.</p>"
           }
         },
         "d7bf074c-c443-4fe4-ad3b-2c8bde8d7cc9": {
           "type": "accordion",
           "settings": {
-            "heading": "5. What is active noise cancellation (ANC)?",
-            "content": "<p>Open-back headphones have perforated ear cups that allow sound to escape, providing a more open and natural soundstage. Closed-back headphones have sealed ear cups, isolating you from external noise and offering more privacy.</p>"
+            "heading": "5. What is a 90-degree hybrid and what is a typical use case?",
+            "content": "<p>A hybrid is a special type of splitter that introduces a 90-degree phase shift between output terminals.  They are often used in amplification to combine two amplifier modules for redundancy.  If one of the amplifiers fails, the system can still operate with reduced gain until it can be serviced.</p>"
           }
         }
       },
