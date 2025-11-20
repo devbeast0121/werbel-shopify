@@ -1069,6 +1069,14 @@
             "text": "<p>General Inquiries: (973) 515-3001</p>"
           }
         },
+        "contact_list_bDXeGM": {
+          "type": "contact_list",
+          "settings": {
+            "heading": "Sales: (973) 280-0825",
+            "icon": "phone",
+            "text": "<p>Sales: (973) 280-0825</p>"
+          }
+        },
         "1c47aabd-faaf-489d-a8b5-d73dd9c2c494": {
           "type": "contact_list",
           "settings": {
@@ -1087,6 +1095,7 @@
       "block_order": [
         "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-contact_list-1",
         "d276508c-95bb-4afc-8c7f-7d91db84af4f",
+        "contact_list_bDXeGM",
         "1c47aabd-faaf-489d-a8b5-d73dd9c2c494",
         "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-scoial_media-1"
       ],
