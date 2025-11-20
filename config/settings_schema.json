@@ -207,7 +207,8 @@
         "role": {
           "text": "text",
           "background": {
-            "solid": "background"
+            "solid": "background",
+            "gradient": ""
           },
           "links": "secondary_button_label",
           "icons": "text",
