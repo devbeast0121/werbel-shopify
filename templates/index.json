@@ -793,6 +793,7 @@
         "text_center": "center",
         "border_line": false,
         "enable_image": true,
+        "image": "shopify://shop_images/faq-image.png",
         "height": "adapt",
         "round_corner": true,
         "image_position": "left",
