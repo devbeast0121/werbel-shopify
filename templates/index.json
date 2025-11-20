@@ -785,6 +785,9 @@
         "86133c53-f82f-451f-b068-11ce55301767",
         "d7bf074c-c443-4fe4-ad3b-2c8bde8d7cc9"
       ],
+      "custom_css": [
+        ".faq__list--wrapper {padding: 0}"
+      ],
       "settings": {
         "container": "container-fluid",
         "subtitle": "",
