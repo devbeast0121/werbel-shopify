@@ -143,6 +143,7 @@
         "a85915c7-cf99-47bb-9795-38581020ad02",
         "template--21698843869483__65ac3ebe-6498-4996-a7d3-9f4bbdc352d7-button-1"
       ],
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "image": "shopify://shop_images/Hybrids1.png",
@@ -179,7 +180,7 @@
             "subheading": "Sound Sharing",
             "text": "In gaming headphones, customizable RGB LED lights are a popular feature for aesthetic and branding purposes.In wired headphones, having detachable cables can make them easier to store and replace if damaged.",
             "button_label": "Shop Now",
-            "button_icon": true,
+            "button_icon": false,
             "button_link": "shopify://collections",
             "button_style": "primary",
             "button_size": "small",
@@ -275,6 +276,7 @@
         "template--21698843869483__875f7849-d628-42c5-9877-70d37d89582b-timeline-4",
         "138ccd10-dd8b-4143-9168-49608539a438"
       ],
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "heading": "",
@@ -541,6 +543,7 @@
         "template--21698843869483__a7b49381-1634-4350-b0de-1b82dcbf6e8b-buy_buttons-1",
         "7f85abe8-0605-4308-86a8-efad32c522f7"
       ],
+      "disabled": true,
       "settings": {
         "container": "container",
         "product": "wm2pd-18-26-5-s",
@@ -628,6 +631,7 @@
         "list_EH7UaF",
         "list_r8KFgA"
       ],
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "image": "shopify://shop_images/about1_c9b656d4-c2d3-4e43-8faf-a530c938281d.png",
@@ -862,6 +866,7 @@
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-3",
         "template--15080390885449__ddce4974-33ea-48ee-816f-fbd94eb4a0fb-1677242689977fe32a-4"
       ],
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "show_offset": true,
@@ -1058,7 +1063,15 @@
           "settings": {
             "heading": "Email",
             "icon": "email",
-            "text": "<p>sales@werbelmicrowave.com<br/>support@werbelmicrowave.com</p>"
+            "text": "<p>sales@werbelmicrowave.com</p>"
+          }
+        },
+        "contact_list_WL9UTr": {
+          "type": "contact_list",
+          "settings": {
+            "heading": "",
+            "icon": "email",
+            "text": "<p>customerservice@werbelmicrowave.com</p>"
           }
         },
         "d276508c-95bb-4afc-8c7f-7d91db84af4f": {
@@ -1066,7 +1079,15 @@
           "settings": {
             "heading": "Phone",
             "icon": "phone",
-            "text": "<p>General Inquiries: (973) 515-3001<br/>Sales: (973) 280-0825<br/>Sales: (973) 515-3004</p>"
+            "text": "<p>General Inquiries: (973) 515-3001</p>"
+          }
+        },
+        "contact_list_bDXeGM": {
+          "type": "contact_list",
+          "settings": {
+            "heading": "",
+            "icon": "phone",
+            "text": "<p>Sales: (973) 280-0825</p>"
           }
         },
         "1c47aabd-faaf-489d-a8b5-d73dd9c2c494": {
@@ -1086,7 +1107,9 @@
       },
       "block_order": [
         "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-contact_list-1",
+        "contact_list_WL9UTr",
         "d276508c-95bb-4afc-8c7f-7d91db84af4f",
+        "contact_list_bDXeGM",
         "1c47aabd-faaf-489d-a8b5-d73dd9c2c494",
         "template--21698843869483__be52e9ff-0055-4d35-a3e9-3ff4ed5edc92-scoial_media-1"
       ],
@@ -1106,6 +1129,7 @@
     },
     "16612826014390f0b2": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "subtitle": "",
