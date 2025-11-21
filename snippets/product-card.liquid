@@ -197,13 +197,19 @@
       <h3 class="product__card__title {{ settings.product_title_size }}">
         <a class="product__card-title--link" href="{{ product_card_product.url | default: '#' }}">
           {% if section.settings.enable_word_limit %}
-            {{- product_card_product.title | truncatewords: word_counter, "" -}}
+            {{- product_card_product.title | truncatewords: word_counter, '' -}}
           {% else %}
             {{- product_card_product.title -}}
           {% endif %}
         </a>
       </h3>
     {%- endif -%}
+
+    {% if product_card_product.metafields.global.description_tag != blank %}
+      <div class="product__card__seo-description">
+        {{ product_card_product.metafields.global.description_tag }}
+      </div>
+    {% endif %}
 
     {%- if show_price -%}
       {% render 'price', product: product_card_product, price_class: price_class %}
@@ -252,7 +258,6 @@
         </p>
       </div>
     {%- endif -%}
-
 
     {% comment %} Add To cart button style 3 desktop {% endcomment %}
     {% if show_cart_button and card_style == 'style_3' %}

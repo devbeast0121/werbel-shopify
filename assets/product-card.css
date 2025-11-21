@@ -5,6 +5,14 @@
   position: relative;
   overflow: hidden;
 }
+.product__card__seo-description {
+  font-size: 13px;
+  color: #666;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  line-height: 1.5;
+  font-weight: 400;
+}
 .product__card__badges {
   position: absolute;
   top: 15px;
